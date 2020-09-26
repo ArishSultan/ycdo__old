@@ -1,0 +1,144 @@
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\obj\Release\ResolveAssemblyReference.cache
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\obj\Release\VBCLSUR.frmClientProductRegistrationNumber.resources
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\obj\Release\VBCLSUR.FrmCutomerInfo.resources
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\obj\Release\VBCLSUR.Resources.resources
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\obj\Release\VBCLSUR.vbproj.GenerateResource.Cache
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\bin\Release\VBCLSUR.dll
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\bin\Release\VBCLSUR.pdb
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\bin\Release\VBCLSUR.xml
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\bin\Release\Peachtree.Common.dll
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\bin\Release\Peachtree.VUSDBREG.Controller.dll
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\bin\Release\Peachtree.VUSDBREG.DAL.dll
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\bin\Release\Interop.PeachwServer.dll
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\bin\Release\Peachtree.OleDbHelper.dll
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\bin\Release\Peachtree.ExportImport.dll
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\bin\Release\Peachtree.SalesTax.dll
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\bin\Release\Peachtree.VUSDBREG.DAL.pdb
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\bin\Release\Peachtree.OleDbHelper.pdb
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\bin\Release\Peachtree.ExportImport.pdb
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\bin\Release\Peachtree.SalesTax.pdb
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\bin\Release\Peachtree.Common.pdb
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\bin\Release\Peachtree.VUSDBREG.Controller.pdb
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\obj\Release\VBCLSUR.dll
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\obj\Release\VBCLSUR.xml
+E:\faheem data\Projects\3.5\SSP build onUST\VBCLSUR\obj\Release\VBCLSUR.pdb
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\bin\Release\VBCLSUR.dll
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\bin\Release\VBCLSUR.pdb
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\bin\Release\VBCLSUR.xml
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\bin\Release\Peachtree.Common.dll
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\bin\Release\Peachtree.VUSDBREG.Controller.dll
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\bin\Release\Peachtree.VUSDBREG.DAL.dll
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\bin\Release\Peachtree.OleDbHelper.dll
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\bin\Release\Peachtree.ExportImport.dll
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\bin\Release\Interop.PeachwServer.dll
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\bin\Release\Peachtree.SalesTax.dll
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\bin\Release\Peachtree.VUSDBREG.DAL.pdb
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\bin\Release\Peachtree.OleDbHelper.pdb
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\bin\Release\Peachtree.ExportImport.pdb
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\bin\Release\Peachtree.SalesTax.pdb
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\bin\Release\Peachtree.Common.pdb
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\bin\Release\Peachtree.VUSDBREG.Controller.pdb
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\obj\Release\ResolveAssemblyReference.cache
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\obj\Release\VBCLSUR.frmClientProductRegistrationNumber.resources
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\obj\Release\VBCLSUR.FrmCutomerInfo.resources
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\obj\Release\VBCLSUR.Resources.resources
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\obj\Release\VBCLSUR.vbproj.GenerateResource.Cache
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\obj\Release\VBCLSUR.dll
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\obj\Release\VBCLSUR.xml
+E:\faheem data\Projects\3.5\Copy (2) of SSP build onUST\VBCLSUR\obj\Release\VBCLSUR.pdb
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\bin\Release\VBCLSUR.dll
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\bin\Release\VBCLSUR.pdb
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\bin\Release\VBCLSUR.xml
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.Common.dll
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.VUSDBREG.Controller.dll
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.VUSDBREG.DAL.dll
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\bin\Release\Interop.PeachwServer.dll
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.OleDbHelper.dll
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.ExportImport.dll
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.SalesTax.dll
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.VUSDBREG.DAL.pdb
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.OleDbHelper.pdb
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.ExportImport.pdb
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.SalesTax.pdb
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.Common.pdb
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.VUSDBREG.Controller.pdb
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\obj\Release\ResolveAssemblyReference.cache
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\obj\Release\VBCLSUR.frmClientProductRegistrationNumber.resources
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\obj\Release\VBCLSUR.FrmCutomerInfo.resources
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\obj\Release\VBCLSUR.Resources.resources
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\obj\Release\VBCLSUR.vbproj.GenerateResource.Cache
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\obj\Release\VBCLSUR.dll
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\obj\Release\VBCLSUR.xml
+E:\faheem data\Projects\3.5\SSP build onUST ver 2\VBCLSUR\obj\Release\VBCLSUR.pdb
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\bin\Release\VBCLSUR.dll
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\bin\Release\VBCLSUR.pdb
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\bin\Release\VBCLSUR.xml
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.Common.dll
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.VUSDBREG.Controller.dll
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.VUSDBREG.DAL.dll
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\bin\Release\Interop.PeachwServer.dll
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.OleDbHelper.dll
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.ExportImport.dll
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.SalesTax.dll
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.VUSDBREG.DAL.pdb
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.OleDbHelper.pdb
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.ExportImport.pdb
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.SalesTax.pdb
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.Common.pdb
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\bin\Release\Peachtree.VUSDBREG.Controller.pdb
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\obj\Release\ResolveAssemblyReference.cache
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\obj\Release\VBCLSUR.frmClientProductRegistrationNumber.resources
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\obj\Release\VBCLSUR.FrmCutomerInfo.resources
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\obj\Release\VBCLSUR.Resources.resources
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\obj\Release\VBCLSUR.vbproj.GenerateResource.Cache
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\obj\Release\VBCLSUR.dll
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\obj\Release\VBCLSUR.xml
+E:\faheem data\Projects\3.5\Copy of SSP build onUST ver 2\VBCLSUR\obj\Release\VBCLSUR.pdb
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\bin\Release\VBCLSUR.dll
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\bin\Release\VBCLSUR.pdb
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\bin\Release\VBCLSUR.xml
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\bin\Release\Peachtree.Common.dll
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\bin\Release\Peachtree.VUSDBREG.Controller.dll
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\bin\Release\Peachtree.VUSDBREG.DAL.dll
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\bin\Release\Interop.PeachwServer.dll
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\bin\Release\Peachtree.OleDbHelper.dll
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\bin\Release\Peachtree.ExportImport.dll
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\bin\Release\Peachtree.SalesTax.dll
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\bin\Release\Peachtree.VUSDBREG.DAL.pdb
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\bin\Release\Peachtree.OleDbHelper.pdb
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\bin\Release\Peachtree.ExportImport.pdb
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\bin\Release\Peachtree.SalesTax.pdb
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\bin\Release\Peachtree.Common.pdb
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\bin\Release\Peachtree.VUSDBREG.Controller.pdb
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\obj\Release\ResolveAssemblyReference.cache
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\obj\Release\VBCLSUR.frmClientProductRegistrationNumber.resources
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\obj\Release\VBCLSUR.FrmCutomerInfo.resources
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\obj\Release\VBCLSUR.Resources.resources
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\obj\Release\VBCLSUR.vbproj.GenerateResource.Cache
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\obj\Release\VBCLSUR.dll
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\obj\Release\VBCLSUR.xml
+E:\faheem data\Projects\3.5\SSP build onUST ver 3\VBCLSUR\obj\Release\VBCLSUR.pdb
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\bin\Release\VBCLSUR.dll
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\bin\Release\VBCLSUR.pdb
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\bin\Release\VBCLSUR.xml
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\bin\Release\Peachtree.Common.dll
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\bin\Release\Peachtree.VUSDBREG.Controller.dll
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\bin\Release\Peachtree.VUSDBREG.DAL.dll
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\bin\Release\Interop.PeachwServer.dll
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\bin\Release\Peachtree.OleDbHelper.dll
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\bin\Release\Peachtree.ExportImport.dll
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\bin\Release\Peachtree.SalesTax.dll
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\bin\Release\Peachtree.VUSDBREG.DAL.pdb
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\bin\Release\Peachtree.OleDbHelper.pdb
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\bin\Release\Peachtree.ExportImport.pdb
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\bin\Release\Peachtree.SalesTax.pdb
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\bin\Release\Peachtree.Common.pdb
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\bin\Release\Peachtree.VUSDBREG.Controller.pdb
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\obj\Release\ResolveAssemblyReference.cache
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\obj\Release\VBCLSUR.frmClientProductRegistrationNumber.resources
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\obj\Release\VBCLSUR.FrmCutomerInfo.resources
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\obj\Release\VBCLSUR.Resources.resources
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\obj\Release\VBCLSUR.vbproj.GenerateResource.Cache
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\obj\Release\VBCLSUR.dll
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\obj\Release\VBCLSUR.xml
+E:\faheem data\Projects\3.5\SSP\SSP build onUST 2010\VBCLSUR\obj\Release\VBCLSUR.pdb

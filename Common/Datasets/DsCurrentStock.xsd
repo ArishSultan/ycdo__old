@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsCurrentStock" targetNamespace="http://tempuri.org/DsCurrentStock.xsd" xmlns:mstns="http://tempuri.org/DsCurrentStock.xsd" xmlns="http://tempuri.org/DsCurrentStock.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsCurrentStock" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DsCurrentStock" msprop:Generator_UserDSName="DsCurrentStock">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CurrentStock" msprop:Generator_TableClassName="CurrentStockDataTable" msprop:Generator_RowEvArgName="CurrentStockRowChangeEvent" msprop:Generator_TableVarName="tableCurrentStock" msprop:Generator_TablePropName="CurrentStock" msprop:Generator_RowDeletingName="CurrentStockRowDeleting" msprop:Generator_UserTableName="CurrentStock" msprop:Generator_RowChangingName="CurrentStockRowChanging" msprop:Generator_RowDeletedName="CurrentStockRowDeleted" msprop:Generator_RowChangedName="CurrentStockRowChanged" msprop:Generator_RowEvHandlerName="CurrentStockRowChangeEventHandler" msprop:Generator_RowClassName="CurrentStockRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ItemNumber" msprop:Generator_ColumnVarNameInTable="columnItemNumber" msprop:Generator_ColumnPropNameInRow="ItemNumber" msprop:Generator_ColumnPropNameInTable="ItemNumberColumn" msprop:Generator_UserColumnName="ItemNumber" type="xs:int" minOccurs="0" />
+              <xs:element name="ItemName" msprop:Generator_ColumnVarNameInTable="columnItemName" msprop:Generator_ColumnPropNameInRow="ItemName" msprop:Generator_ColumnPropNameInTable="ItemNameColumn" msprop:Generator_UserColumnName="ItemName" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalRecieved" msprop:Generator_ColumnVarNameInTable="columnTotalRecieved" msprop:Generator_ColumnPropNameInRow="TotalRecieved" msprop:Generator_ColumnPropNameInTable="TotalRecievedColumn" msprop:Generator_UserColumnName="TotalRecieved" type="xs:int" minOccurs="0" />
+              <xs:element name="TotalConsumed" msprop:Generator_ColumnVarNameInTable="columnTotalConsumed" msprop:Generator_ColumnPropNameInRow="TotalConsumed" msprop:Generator_ColumnPropNameInTable="TotalConsumedColumn" msprop:Generator_UserColumnName="TotalConsumed" type="xs:int" minOccurs="0" />
+              <xs:element name="NetQty" msprop:Generator_ColumnVarNameInTable="columnNetQty" msprop:Generator_ColumnPropNameInRow="NetQty" msprop:Generator_ColumnPropNameInTable="NetQtyColumn" msprop:Generator_UserColumnName="NetQty" type="xs:int" minOccurs="0" />
+              <xs:element name="FixLimit" msprop:Generator_ColumnVarNameInTable="columnFixLimit" msprop:Generator_ColumnPropNameInRow="FixLimit" msprop:Generator_ColumnPropNameInTable="FixLimitColumn" msprop:Generator_UserColumnName="FixLimit" type="xs:long" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

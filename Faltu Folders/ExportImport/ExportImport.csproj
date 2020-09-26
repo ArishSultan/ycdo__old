@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6C8C2FD2-6984-41DC-B86F-9D66634C65A6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ExportImport</RootNamespace>
+    <AssemblyName>ExportImport</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.PeachwServer, Version=19.0.0.0, Culture=neutral, PublicKeyToken=d06c16dde04d83e4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Sage Software\Peachtree2012\Interop.PeachwServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountingPeriodsList.cs" />
+    <Compile Include="AssemblyItemList.cs" />
+    <Compile Include="ChartofAccount.cs" />
+    <Compile Include="ClientRegistration.cs" />
+    <Compile Include="CommonFunction.cs" />
+    <Compile Include="CustomerContactList.cs" />
+    <Compile Include="CostCodeList.cs" />
+    <Compile Include="CustomerList.cs" />
+    <Compile Include="DefaultAccountsList.cs" />
+    <Compile Include="DefaultPriceLevel.cs" />
+    <Compile Include="EditQuote.cs" />
+    <Compile Include="EditSaleInvoice.cs" />
+    <Compile Include="EditSaleOrder.cs" />
+    <Compile Include="EmployeeAsSaleRep.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="InventoryItemDefault.cs" />
+    <Compile Include="InventoryItemsList.cs" />
+    <Compile Include="ItemAccountList.cs" />
+    <Compile Include="ItemPriceLevel.cs" />
+    <Compile Include="ItemTaxType.cs" />
+    <Compile Include="JobList.cs" />
+    <Compile Include="NonAssemblyItemList.cs" />
+    <Compile Include="PeachtreeSingleTon.cs" />
+    <Compile Include="PhaseList.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CashReceiptJournal.cs" />
+    <Compile Include="SaleInvForSO.cs" />
+    <Compile Include="SaleOrdersForInvoice.cs" />
+    <Compile Include="SalesTaxAuthorities.cs" />
+    <Compile Include="SalesTaxCodes.cs" />
+    <Compile Include="SaveQuote.cs" />
+    <Compile Include="SaveSaleInvoice.cs" />
+    <Compile Include="SaveSaleOrder.cs" />
+    <Compile Include="SerializedAssemblyItemList.cs" />
+    <Compile Include="ShippingMethod.cs" />
+    <Compile Include="TimeTicketRegister.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

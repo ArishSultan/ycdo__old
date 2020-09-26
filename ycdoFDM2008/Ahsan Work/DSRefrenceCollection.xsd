@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSRefrenceCollection" targetNamespace="http://tempuri.org/DSRefrenceCollection.xsd" xmlns:mstns="http://tempuri.org/DSRefrenceCollection.xsd" xmlns="http://tempuri.org/DSRefrenceCollection.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSRefrenceCollection" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSRefrenceCollection" msprop:Generator_DataSetName="DSRefrenceCollection" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DSRefrenceCollection" msprop:Generator_UserTableName="DSRefrenceCollection" msprop:Generator_RowDeletedName="DSRefrenceCollectionRowDeleted" msprop:Generator_RowChangedName="DSRefrenceCollectionRowChanged" msprop:Generator_RowClassName="DSRefrenceCollectionRow" msprop:Generator_RowChangingName="DSRefrenceCollectionRowChanging" msprop:Generator_RowEvArgName="DSRefrenceCollectionRowChangeEvent" msprop:Generator_RowEvHandlerName="DSRefrenceCollectionRowChangeEventHandler" msprop:Generator_TableClassName="DSRefrenceCollectionDataTable" msprop:Generator_TableVarName="tableDSRefrenceCollection" msprop:Generator_RowDeletingName="DSRefrenceCollectionRowDeleting" msprop:Generator_TablePropName="_DSRefrenceCollection">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MemberName" msprop:Generator_UserColumnName="MemberName" msprop:Generator_ColumnVarNameInTable="columnMemberName" msprop:Generator_ColumnPropNameInRow="MemberName" msprop:Generator_ColumnPropNameInTable="MemberNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CollectionFee" msprop:Generator_UserColumnName="CollectionFee" msprop:Generator_ColumnVarNameInTable="columnCollectionFee" msprop:Generator_ColumnPropNameInRow="CollectionFee" msprop:Generator_ColumnPropNameInTable="CollectionFeeColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

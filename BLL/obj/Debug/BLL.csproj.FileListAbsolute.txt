@@ -1,0 +1,360 @@
+E:\faheem data\TOM projects\3.5\GEN\BLL\bin\Debug\BLL.dll
+E:\faheem data\TOM projects\3.5\GEN\BLL\bin\Debug\BLL.pdb
+E:\faheem data\TOM projects\3.5\GEN\BLL\bin\Debug\Common.dll
+E:\faheem data\TOM projects\3.5\GEN\BLL\bin\Debug\DAL.dll
+E:\faheem data\TOM projects\3.5\GEN\BLL\bin\Debug\ExportImport.dll
+E:\faheem data\TOM projects\3.5\GEN\BLL\bin\Debug\OleDbHelper.dll
+E:\faheem data\TOM projects\3.5\GEN\BLL\bin\Debug\Interop.PeachwServer.dll
+E:\faheem data\TOM projects\3.5\GEN\BLL\bin\Debug\ExportImport.pdb
+E:\faheem data\TOM projects\3.5\GEN\BLL\bin\Debug\OleDbHelper.pdb
+E:\faheem data\TOM projects\3.5\GEN\BLL\bin\Debug\Common.pdb
+E:\faheem data\TOM projects\3.5\GEN\BLL\bin\Debug\DAL.pdb
+E:\faheem data\TOM projects\3.5\GEN\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\faheem data\TOM projects\3.5\GEN\BLL\obj\Debug\BLL.dll
+E:\faheem data\TOM projects\3.5\GEN\BLL\obj\Debug\BLL.pdb
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\BLL\bin\Debug\BLL.dll
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\BLL\bin\Debug\BLL.pdb
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\BLL\bin\Debug\Common.dll
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\BLL\bin\Debug\DAL.dll
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\BLL\bin\Debug\ExportImport.dll
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\BLL\bin\Debug\OleDbHelper.dll
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\BLL\bin\Debug\Interop.PeachwServer.dll
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\BLL\bin\Debug\ExportImport.pdb
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\BLL\bin\Debug\OleDbHelper.pdb
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\BLL\bin\Debug\Common.pdb
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\BLL\bin\Debug\DAL.pdb
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\BLL\obj\Debug\BLL.dll
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\BLL\obj\Debug\BLL.pdb
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\BLL\bin\Debug\BLL.dll
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\BLL\bin\Debug\BLL.pdb
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\BLL\bin\Debug\Common.dll
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\BLL\bin\Debug\DAL.dll
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\BLL\bin\Debug\ExportImport.dll
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\BLL\bin\Debug\OleDbHelper.dll
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\BLL\bin\Debug\Interop.PeachwServer.dll
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\BLL\bin\Debug\ExportImport.pdb
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\BLL\bin\Debug\OleDbHelper.pdb
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\BLL\bin\Debug\Common.pdb
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\BLL\bin\Debug\DAL.pdb
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\BLL\obj\Debug\BLL.dll
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\BLL\obj\Debug\BLL.pdb
+F:\Omer Aziz Data\YCDO\MS Access\FDM\BLL\bin\Debug\BLL.dll
+F:\Omer Aziz Data\YCDO\MS Access\FDM\BLL\bin\Debug\BLL.pdb
+F:\Omer Aziz Data\YCDO\MS Access\FDM\BLL\bin\Debug\Common.dll
+F:\Omer Aziz Data\YCDO\MS Access\FDM\BLL\bin\Debug\DAL.dll
+F:\Omer Aziz Data\YCDO\MS Access\FDM\BLL\bin\Debug\OleDbHelper.dll
+F:\Omer Aziz Data\YCDO\MS Access\FDM\BLL\bin\Debug\OleDbHelper.pdb
+F:\Omer Aziz Data\YCDO\MS Access\FDM\BLL\bin\Debug\Common.pdb
+F:\Omer Aziz Data\YCDO\MS Access\FDM\BLL\bin\Debug\DAL.pdb
+F:\Omer Aziz Data\YCDO\MS Access\FDM\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\Omer Aziz Data\YCDO\MS Access\FDM\BLL\obj\Debug\BLL.dll
+F:\Omer Aziz Data\YCDO\MS Access\FDM\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Peachtree\Desktop\FDM\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Peachtree\Desktop\FDM\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Peachtree\Desktop\FDM\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Peachtree\Desktop\FDM\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Peachtree\Desktop\FDM\BLL\bin\Debug\Common.dll
+C:\Documents and Settings\Peachtree\Desktop\FDM\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Peachtree\Desktop\FDM\BLL\bin\Debug\OleDbHelper.dll
+C:\Documents and Settings\Peachtree\Desktop\FDM\BLL\bin\Debug\OleDbHelper.pdb
+C:\Documents and Settings\Peachtree\Desktop\FDM\BLL\bin\Debug\Common.pdb
+C:\Documents and Settings\Peachtree\Desktop\FDM\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Peachtree\Desktop\FDM\BLL\obj\Debug\BLL.dll
+F:\Omer Aziz Data\YCDO\MS Access\Faheem FDM\FDM\BLL\bin\Debug\BLL.dll
+F:\Omer Aziz Data\YCDO\MS Access\Faheem FDM\FDM\BLL\bin\Debug\BLL.pdb
+F:\Omer Aziz Data\YCDO\MS Access\Faheem FDM\FDM\BLL\bin\Debug\Common.dll
+F:\Omer Aziz Data\YCDO\MS Access\Faheem FDM\FDM\BLL\bin\Debug\DAL.dll
+F:\Omer Aziz Data\YCDO\MS Access\Faheem FDM\FDM\BLL\bin\Debug\OleDbHelper.dll
+F:\Omer Aziz Data\YCDO\MS Access\Faheem FDM\FDM\BLL\bin\Debug\OleDbHelper.pdb
+F:\Omer Aziz Data\YCDO\MS Access\Faheem FDM\FDM\BLL\bin\Debug\Common.pdb
+F:\Omer Aziz Data\YCDO\MS Access\Faheem FDM\FDM\BLL\bin\Debug\DAL.pdb
+F:\Omer Aziz Data\YCDO\MS Access\Faheem FDM\FDM\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\Omer Aziz Data\YCDO\MS Access\Faheem FDM\FDM\BLL\obj\Debug\BLL.dll
+F:\Omer Aziz Data\YCDO\MS Access\Faheem FDM\FDM\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Peachtree\Desktop\Faheem FDM\FDM\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Peachtree\Desktop\Faheem FDM\FDM\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Peachtree\Desktop\Faheem FDM\FDM\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Peachtree\Desktop\Faheem FDM\FDM\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Peachtree\Desktop\Faheem FDM\FDM\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Peachtree\Desktop\Faheem FDM\FDM\BLL\bin\Debug\Common.dll
+C:\Documents and Settings\Peachtree\Desktop\Faheem FDM\FDM\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Peachtree\Desktop\Faheem FDM\FDM\BLL\bin\Debug\OleDbHelper.dll
+C:\Documents and Settings\Peachtree\Desktop\Faheem FDM\FDM\BLL\bin\Debug\OleDbHelper.pdb
+C:\Documents and Settings\Peachtree\Desktop\Faheem FDM\FDM\BLL\bin\Debug\Common.pdb
+C:\Documents and Settings\Peachtree\Desktop\Faheem FDM\FDM\BLL\bin\Debug\DAL.pdb
+F:\Omer Aziz Shared Data\FDM\BLL\bin\Debug\BLL.dll
+F:\Omer Aziz Shared Data\FDM\BLL\bin\Debug\BLL.pdb
+F:\Omer Aziz Shared Data\FDM\BLL\bin\Debug\Common.dll
+F:\Omer Aziz Shared Data\FDM\BLL\bin\Debug\DAL.dll
+F:\Omer Aziz Shared Data\FDM\BLL\bin\Debug\OleDbHelper.dll
+F:\Omer Aziz Shared Data\FDM\BLL\bin\Debug\OleDbHelper.pdb
+F:\Omer Aziz Shared Data\FDM\BLL\bin\Debug\Common.pdb
+F:\Omer Aziz Shared Data\FDM\BLL\bin\Debug\DAL.pdb
+F:\Omer Aziz Shared Data\FDM\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\Omer Aziz Shared Data\FDM\BLL\obj\Debug\BLL.dll
+F:\Omer Aziz Shared Data\FDM\BLL\obj\Debug\BLL.pdb
+\\sub-peachtree\FDM\BLL\bin\Debug\FDM.mdb
+\\sub-peachtree\FDM\BLL\bin\Debug\BLL.dll
+\\sub-peachtree\FDM\BLL\bin\Debug\BLL.pdb
+\\sub-peachtree\FDM\BLL\bin\Debug\Common.dll
+\\sub-peachtree\FDM\BLL\bin\Debug\DAL.dll
+\\sub-peachtree\FDM\BLL\bin\Debug\OleDbHelper.dll
+\\sub-peachtree\FDM\BLL\bin\Debug\OleDbHelper.pdb
+\\sub-peachtree\FDM\BLL\bin\Debug\Common.pdb
+\\sub-peachtree\FDM\BLL\bin\Debug\DAL.pdb
+\\sub-peachtree\FDM\BLL\obj\Debug\ResolveAssemblyReference.cache
+\\sub-peachtree\FDM\BLL\obj\Debug\BLL.dll
+\\sub-peachtree\FDM\BLL\obj\Debug\BLL.pdb
+D:\zaiddata\FDM\BLL\bin\Debug\FDM.mdb
+D:\zaiddata\FDM\BLL\bin\Debug\BLL.dll
+D:\zaiddata\FDM\BLL\bin\Debug\BLL.pdb
+D:\zaiddata\FDM\BLL\bin\Debug\Common.dll
+D:\zaiddata\FDM\BLL\bin\Debug\DAL.dll
+D:\zaiddata\FDM\BLL\bin\Debug\OleDbHelper.dll
+D:\zaiddata\FDM\BLL\bin\Debug\OleDbHelper.pdb
+D:\zaiddata\FDM\BLL\bin\Debug\Common.pdb
+D:\zaiddata\FDM\BLL\bin\Debug\DAL.pdb
+D:\zaiddata\FDM\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\zaiddata\FDM\BLL\obj\Debug\BLL.dll
+D:\zaiddata\FDM\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\YCDO FDM\BLL\bin\Debug\FDM.mdb
+C:\Users\Administrator\Desktop\YCDO FDM\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\YCDO FDM\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\YCDO FDM\BLL\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\YCDO FDM\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\YCDO FDM\BLL\bin\Debug\OleDbHelper.dll
+C:\Users\Administrator\Desktop\YCDO FDM\BLL\bin\Debug\OleDbHelper.pdb
+C:\Users\Administrator\Desktop\YCDO FDM\BLL\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\YCDO FDM\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\YCDO FDM\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\YCDO FDM\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\YCDO FDM\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\BLL\bin\Debug\FDM.mdb
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\BLL\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\BLL\bin\Debug\OleDbHelper.dll
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\BLL\bin\Debug\OleDbHelper.pdb
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\BLL\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\BLL\obj\Debug\BLL.pdb
+D:\zaiddata\Ahsan\New Folder\BLL\bin\Debug\FDM.mdb
+D:\zaiddata\Ahsan\New Folder\BLL\bin\Debug\BLL.dll
+D:\zaiddata\Ahsan\New Folder\BLL\bin\Debug\BLL.pdb
+D:\zaiddata\Ahsan\New Folder\BLL\bin\Debug\Common.dll
+D:\zaiddata\Ahsan\New Folder\BLL\bin\Debug\DAL.dll
+D:\zaiddata\Ahsan\New Folder\BLL\bin\Debug\OleDbHelper.dll
+D:\zaiddata\Ahsan\New Folder\BLL\bin\Debug\OleDbHelper.pdb
+D:\zaiddata\Ahsan\New Folder\BLL\bin\Debug\Common.pdb
+D:\zaiddata\Ahsan\New Folder\BLL\bin\Debug\DAL.pdb
+D:\zaiddata\Ahsan\New Folder\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\zaiddata\Ahsan\New Folder\BLL\obj\Debug\BLL.dll
+D:\zaiddata\Ahsan\New Folder\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\FDM.mdb
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\OleDbHelper.dll
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\OleDbHelper.pdb
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\FDM.mdb
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\Common.dll
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\OleDbHelper.dll
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\OleDbHelper.pdb
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\Common.pdb
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\BLL\obj\Debug\BLL.pdb
+D:\FDM Latest 20-12-2012\BLL\bin\Debug\FDM.mdb
+D:\FDM Latest 20-12-2012\BLL\bin\Debug\BLL.dll
+D:\FDM Latest 20-12-2012\BLL\bin\Debug\BLL.pdb
+D:\FDM Latest 20-12-2012\BLL\bin\Debug\Common.dll
+D:\FDM Latest 20-12-2012\BLL\bin\Debug\DAL.dll
+D:\FDM Latest 20-12-2012\BLL\bin\Debug\OleDbHelper.dll
+D:\FDM Latest 20-12-2012\BLL\bin\Debug\OleDbHelper.pdb
+D:\FDM Latest 20-12-2012\BLL\bin\Debug\Common.pdb
+D:\FDM Latest 20-12-2012\BLL\bin\Debug\DAL.pdb
+D:\FDM Latest 20-12-2012\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\FDM Latest 20-12-2012\BLL\obj\Debug\BLL.dll
+D:\FDM Latest 20-12-2012\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\FDM.mdb
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\Common.dll
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\OleDbHelper.dll
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\OleDbHelper.pdb
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\Common.pdb
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\BLL\obj\Debug\BLL.pdb
+D:\Omer Aziz\FDM Latest 20-12-2012\BLL\bin\Debug\FDM.mdb
+D:\Omer Aziz\FDM Latest 20-12-2012\BLL\bin\Debug\BLL.dll
+D:\Omer Aziz\FDM Latest 20-12-2012\BLL\bin\Debug\BLL.pdb
+D:\Omer Aziz\FDM Latest 20-12-2012\BLL\bin\Debug\Common.dll
+D:\Omer Aziz\FDM Latest 20-12-2012\BLL\bin\Debug\DAL.dll
+D:\Omer Aziz\FDM Latest 20-12-2012\BLL\bin\Debug\OleDbHelper.dll
+D:\Omer Aziz\FDM Latest 20-12-2012\BLL\bin\Debug\OleDbHelper.pdb
+D:\Omer Aziz\FDM Latest 20-12-2012\BLL\bin\Debug\Common.pdb
+D:\Omer Aziz\FDM Latest 20-12-2012\BLL\bin\Debug\DAL.pdb
+D:\Omer Aziz\FDM Latest 20-12-2012\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Omer Aziz\FDM Latest 20-12-2012\BLL\obj\Debug\BLL.dll
+D:\Omer Aziz\FDM Latest 20-12-2012\BLL\obj\Debug\BLL.pdb
+D:\BACKUP\FDM Latest 20-12-2012\BLL\bin\Debug\FDM.mdb
+D:\BACKUP\FDM Latest 20-12-2012\BLL\bin\Debug\BLL.dll
+D:\BACKUP\FDM Latest 20-12-2012\BLL\bin\Debug\BLL.pdb
+D:\BACKUP\FDM Latest 20-12-2012\BLL\bin\Debug\Common.dll
+D:\BACKUP\FDM Latest 20-12-2012\BLL\bin\Debug\DAL.dll
+D:\BACKUP\FDM Latest 20-12-2012\BLL\bin\Debug\OleDbHelper.dll
+D:\BACKUP\FDM Latest 20-12-2012\BLL\bin\Debug\OleDbHelper.pdb
+D:\BACKUP\FDM Latest 20-12-2012\BLL\bin\Debug\Common.pdb
+D:\BACKUP\FDM Latest 20-12-2012\BLL\bin\Debug\DAL.pdb
+D:\BACKUP\FDM Latest 20-12-2012\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\BACKUP\FDM Latest 20-12-2012\BLL\obj\Debug\BLL.dll
+D:\BACKUP\FDM Latest 20-12-2012\BLL\obj\Debug\BLL.pdb
+E:\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\FDM.mdb
+E:\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\BLL.dll
+E:\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\BLL.pdb
+E:\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\Common.dll
+E:\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\DAL.dll
+E:\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\OleDbHelper.dll
+E:\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\Common.pdb
+E:\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\DAL.pdb
+E:\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\OleDbHelper.pdb
+E:\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.dll
+E:\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\FDM.mdb
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\Common.dll
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\OleDbHelper.dll
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\Common.pdb
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\OleDbHelper.pdb
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.pdb
+C:\Users\RAEES X64\Desktop\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\FDM.mdb
+C:\Users\RAEES X64\Desktop\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\BLL.dll
+C:\Users\RAEES X64\Desktop\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\BLL.pdb
+C:\Users\RAEES X64\Desktop\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\Common.dll
+C:\Users\RAEES X64\Desktop\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\DAL.dll
+C:\Users\RAEES X64\Desktop\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\OleDbHelper.dll
+C:\Users\RAEES X64\Desktop\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\Common.pdb
+C:\Users\RAEES X64\Desktop\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\DAL.pdb
+C:\Users\RAEES X64\Desktop\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\OleDbHelper.pdb
+C:\Users\RAEES X64\Desktop\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\RAEES X64\Desktop\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.dll
+C:\Users\RAEES X64\Desktop\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.pdb
+E:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\FDM.mdb
+E:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\BLL.dll
+E:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\BLL.pdb
+E:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\Common.dll
+E:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\DAL.dll
+E:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\OleDbHelper.dll
+E:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\Common.pdb
+E:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\DAL.pdb
+E:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\OleDbHelper.pdb
+E:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.dll
+E:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.pdb
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\FDM.mdb
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\BLL.dll
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\BLL.pdb
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\Common.dll
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\DAL.dll
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\OleDbHelper.dll
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\Common.pdb
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\DAL.pdb
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\OleDbHelper.pdb
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.dll
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.pdb
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\FDM.mdb
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\BLL.dll
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\BLL.pdb
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\Common.dll
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\DAL.dll
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\OleDbHelper.dll
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\Common.pdb
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\DAL.pdb
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\OleDbHelper.pdb
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.dll
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.pdb
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\FDM.mdb
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\BLL.dll
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\BLL.pdb
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\Common.dll
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\DAL.dll
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\OleDbHelper.dll
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\Common.pdb
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\DAL.pdb
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\OleDbHelper.pdb
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.dll
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.pdb
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\FDM.mdb
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\BLL.dll
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\BLL.pdb
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\Common.dll
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\DAL.dll
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\OleDbHelper.dll
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\Common.pdb
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\DAL.pdb
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\bin\Debug\OleDbHelper.pdb
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.dll
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.pdb
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\BLL\bin\Debug\BLL.dll
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\BLL\bin\Debug\BLL.pdb
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\BLL\bin\Debug\Common.dll
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\BLL\bin\Debug\DAL.dll
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\BLL\bin\Debug\OleDbHelper.dll
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\BLL\bin\Debug\Common.pdb
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\BLL\bin\Debug\DAL.pdb
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\BLL\bin\Debug\OleDbHelper.pdb
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.dll
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\BLL\obj\Debug\BLL.pdb
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\BLL\bin\Debug\BLL.dll
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\BLL\bin\Debug\BLL.pdb
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\BLL\bin\Debug\Common.dll
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\BLL\bin\Debug\DAL.dll
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\BLL\bin\Debug\OleDbHelper.dll
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\BLL\bin\Debug\Common.pdb
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\BLL\bin\Debug\DAL.pdb
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\BLL\bin\Debug\OleDbHelper.pdb
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\BLL\obj\Debug\BLL.dll
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\BLL\obj\Debug\BLL.pdb
+D:\FDM\BLL\bin\Debug\BLL.dll
+D:\FDM\BLL\bin\Debug\BLL.pdb
+D:\FDM\BLL\bin\Debug\Common.dll
+D:\FDM\BLL\bin\Debug\DAL.dll
+D:\FDM\BLL\bin\Debug\OleDbHelper.dll
+D:\FDM\BLL\bin\Debug\Common.pdb
+D:\FDM\BLL\bin\Debug\Common.dll.config
+D:\FDM\BLL\bin\Debug\DAL.pdb
+D:\FDM\BLL\bin\Debug\OleDbHelper.pdb
+D:\FDM\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\FDM\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\FDM\BLL\obj\Debug\BLL.dll
+D:\FDM\BLL\obj\Debug\BLL.pdb

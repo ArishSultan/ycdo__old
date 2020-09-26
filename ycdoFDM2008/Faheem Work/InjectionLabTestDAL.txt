@@ -1,0 +1,79 @@
+public bool SetPharmacyIssued(  List<LabTest> medicines)
+       {
+           try
+           {
+
+             
+               con = new OleDbConnection();
+               this.readconfile = new ReadConfigFile();
+               con.ConnectionString = this.readconfile.ConfigString(ConfigFiles.ProjectConfigFile);
+               con.Open();
+               tran = con.BeginTransaction();
+               cmd = new OleDbCommand("", con);
+               cmd.Transaction = tran;
+               
+               foreach (LabTest med in medicines)
+               {
+                   string update = "Update MedicineIssued set MedicineIssued = " + true + " where ID=" + med.MedIssuedID;
+                   cmd.CommandText = update;
+                   cmd.ExecuteNonQuery();
+               }
+
+               tran.Commit();
+               return true;
+           }
+           catch (Exception ex)
+           {
+               tran.Rollback();
+               throw ex;
+           }
+
+           finally
+           { con.Close(); }
+       }
+
+ public List<LabTest> GetMedicineIssued(PatientRegistration pr)
+       {
+           List<LabTest> labTests = new List<LabTest>();
+           try
+           {
+               string select = "SELECT MedicineIssued.*, LabTest.[Test (A-Z)] FROM MedicineIssued, LabTest where LabTest.ID=MedicineIssued.MedicineID and MedicineIssued=No and TokenNumber=" + pr.TokenNumber + " and TokenMonthYear=" + pr.TokenMonthYear + "";
+               DataTable dt = new DataTable();
+               con = new OleDbConnection();
+               readconfile = new ReadConfigFile();
+               con.ConnectionString = readconfile.ConfigString(ConfigFiles.ProjectConfigFile);
+               con.Open();
+               if (con.State == ConnectionState.Open)
+               {
+                   da = new OleDbDataAdapter(select, con);
+                   da.Fill(dt);
+
+               }
+
+               if (dt.Rows.Count > 0)
+               {
+                   foreach (DataRow row in dt.Rows)
+                   {
+                       LabTest med = new LabTest();
+                       med.IsMedicine = true;
+                       med.LabTestId = Convert.ToInt32(row["MedicineID"] == DBNull.Value ? 0 : row["MedicineID"]);
+                       med.TimesADay = Convert.ToDecimal(row["DosePerDay"] == DBNull.Value ? 0 : row["DosePerDay"]);
+                       med.TestName = Convert.ToString(row["Test (A-Z)"] == DBNull.Value ? "" : row["Test (A-Z)"]);
+                       med.MedIssuedID = Convert.ToInt32(row["ID"] == DBNull.Value ? 0 : row["ID"]);
+                       labTests.Add(med);
+
+                   }
+               }
+
+               return labTests;
+           }
+           catch (Exception ex)
+           {
+               throw ex;
+           }
+           finally
+           {
+               con.Close();
+           }
+
+       }

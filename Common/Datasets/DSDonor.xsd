@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSDonor" targetNamespace="http://tempuri.org/DSDonor.xsd" xmlns:mstns="http://tempuri.org/DSDonor.xsd" xmlns="http://tempuri.org/DSDonor.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSDonor" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSDonor" msprop:Generator_DataSetName="DSDonor" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Donor" msprop:Generator_UserTableName="Donor" msprop:Generator_RowDeletedName="DonorRowDeleted" msprop:Generator_RowChangedName="DonorRowChanged" msprop:Generator_RowClassName="DonorRow" msprop:Generator_RowChangingName="DonorRowChanging" msprop:Generator_RowEvArgName="DonorRowChangeEvent" msprop:Generator_RowEvHandlerName="DonorRowChangeEventHandler" msprop:Generator_TableClassName="DonorDataTable" msprop:Generator_TableVarName="tableDonor" msprop:Generator_RowDeletingName="DonorRowDeleting" msprop:Generator_TablePropName="Donor">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MID" msprop:Generator_UserColumnName="MID" msprop:Generator_ColumnVarNameInTable="columnMID" msprop:Generator_ColumnPropNameInRow="MID" msprop:Generator_ColumnPropNameInTable="MIDColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="DonorName" msdata:Caption="MemberName" msprop:Generator_UserColumnName="DonorName" msprop:Generator_ColumnVarNameInTable="columnDonorName" msprop:Generator_ColumnPropNameInRow="DonorName" msprop:Generator_ColumnPropNameInTable="DonorNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DonorLastName" msdata:Caption="MemberLastName" msprop:Generator_UserColumnName="DonorLastName" msprop:Generator_ColumnVarNameInTable="columnDonorLastName" msprop:Generator_ColumnPropNameInRow="DonorLastName" msprop:Generator_ColumnPropNameInTable="DonorLastNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Age" msprop:Generator_UserColumnName="Age" msprop:Generator_ColumnVarNameInTable="columnAge" msprop:Generator_ColumnPropNameInRow="Age" msprop:Generator_ColumnPropNameInTable="AgeColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Gender" msprop:Generator_UserColumnName="Gender" msprop:Generator_ColumnVarNameInTable="columnGender" msprop:Generator_ColumnPropNameInRow="Gender" msprop:Generator_ColumnPropNameInTable="GenderColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="NIC" msprop:Generator_UserColumnName="NIC" msprop:Generator_ColumnVarNameInTable="columnNIC" msprop:Generator_ColumnPropNameInRow="NIC" msprop:Generator_ColumnPropNameInTable="NICColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Refrence" msprop:Generator_UserColumnName="Refrence" msprop:Generator_ColumnVarNameInTable="columnRefrence" msprop:Generator_ColumnPropNameInRow="Refrence" msprop:Generator_ColumnPropNameInTable="RefrenceColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Phone" msprop:Generator_UserColumnName="Phone" msprop:Generator_ColumnVarNameInTable="columnPhone" msprop:Generator_ColumnPropNameInRow="Phone" msprop:Generator_ColumnPropNameInTable="PhoneColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Email" msprop:Generator_UserColumnName="Email" msprop:Generator_ColumnVarNameInTable="columnEmail" msprop:Generator_ColumnPropNameInRow="Email" msprop:Generator_ColumnPropNameInTable="EmailColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Bloodgroup" msprop:Generator_UserColumnName="Bloodgroup" msprop:Generator_ColumnVarNameInTable="columnBloodgroup" msprop:Generator_ColumnPropNameInRow="Bloodgroup" msprop:Generator_ColumnPropNameInTable="BloodgroupColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DonorFee" msdata:Caption="MemberShipFee" msprop:Generator_UserColumnName="DonorFee" msprop:Generator_ColumnVarNameInTable="columnDonorFee" msprop:Generator_ColumnPropNameInRow="DonorFee" msprop:Generator_ColumnPropNameInTable="DonorFeeColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Monthly" msprop:Generator_UserColumnName="Monthly" msprop:Generator_ColumnVarNameInTable="columnMonthly" msprop:Generator_ColumnPropNameInRow="Monthly" msprop:Generator_ColumnPropNameInTable="MonthlyColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Adress" msprop:Generator_UserColumnName="Adress" msprop:Generator_ColumnVarNameInTable="columnAdress" msprop:Generator_ColumnPropNameInRow="Adress" msprop:Generator_ColumnPropNameInTable="AdressColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BranchName" msprop:Generator_UserColumnName="BranchName" msprop:Generator_ColumnVarNameInTable="columnBranchName" msprop:Generator_ColumnPropNameInRow="BranchName" msprop:Generator_ColumnPropNameInTable="BranchNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Status" msprop:Generator_UserColumnName="Status" msprop:Generator_ColumnVarNameInTable="columnStatus" msprop:Generator_ColumnPropNameInRow="Status" msprop:Generator_ColumnPropNameInTable="StatusColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CollectionDate" msprop:Generator_UserColumnName="CollectionDate" msprop:Generator_ColumnVarNameInTable="columnCollectionDate" msprop:Generator_ColumnPropNameInRow="CollectionDate" msprop:Generator_ColumnPropNameInTable="CollectionDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="DonorNo" msdata:Caption="MembershipNo" msprop:Generator_UserColumnName="DonorNo" msprop:Generator_ColumnVarNameInTable="columnDonorNo" msprop:Generator_ColumnPropNameInRow="DonorNo" msprop:Generator_ColumnPropNameInTable="DonorNoColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MonthlyFee" msprop:Generator_UserColumnName="MonthlyFee" msprop:Generator_ColumnVarNameInTable="columnMonthlyFee" msprop:Generator_ColumnPropNameInRow="MonthlyFee" msprop:Generator_ColumnPropNameInTable="MonthlyFeeColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="City" msprop:Generator_UserColumnName="City" msprop:Generator_ColumnVarNameInTable="columnCity" msprop:Generator_ColumnPropNameInRow="City" msprop:Generator_ColumnPropNameInTable="CityColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CurrentDate" msprop:Generator_UserColumnName="CurrentDate" msprop:Generator_ColumnVarNameInTable="columnCurrentDate" msprop:Generator_ColumnPropNameInRow="CurrentDate" msprop:Generator_ColumnPropNameInTable="CurrentDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="FundType" msprop:Generator_UserColumnName="FundType" msprop:Generator_ColumnVarNameInTable="columnFundType" msprop:Generator_ColumnPropNameInRow="FundType" msprop:Generator_ColumnPropNameInTable="FundTypeColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,8 @@
+ public List<LabTest> GetMedicineIssued(PatientRegistration pr)
+        {
+            return new InjectionLabTestDAL().GetMedicineIssued(pr);
+        }
+        public bool SetPharmacyIssued(List<LabTest> medicines)
+        {
+            return new InjectionLabTestDAL().SetPharmacyIssued(medicines);
+        }

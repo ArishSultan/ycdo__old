@@ -1,0 +1,605 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{706A9567-6225-4598-9846-B6FCF5B29174}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FDM</RootNamespace>
+    <AssemblyName>FDM</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>FDM.Program</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmCitiy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCitiy.Designer.cs">
+      <DependentUpon>FrmCitiy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommunicationManager.cs" />
+    <Compile Include="FrmBranches.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBranches.Designer.cs">
+      <DependentUpon>FrmBranches.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCorrection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCorrection.Designer.cs">
+      <DependentUpon>frmCorrection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoctorCheckup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoctorCheckup.designer.cs">
+      <DependentUpon>frmDoctorCheckup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoctorChecupRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoctorChecupRoom.Designer.cs">
+      <DependentUpon>frmDoctorChecupRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDonor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDonor.Designer.cs">
+      <DependentUpon>FrmDonor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmExistingToken.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmExistingToken.Designer.cs">
+      <DependentUpon>FrmExistingToken.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLabTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLabTest.Designer.cs">
+      <DependentUpon>FrmLabTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMembership.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMembership.Designer.cs">
+      <DependentUpon>FrmMembership.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPatientCategories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPatientCategories.Designer.cs">
+      <DependentUpon>frmPatientCategories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPatientRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPatientRegistration.designer.cs">
+      <DependentUpon>frmPatientRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrintSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrintSummary.Designer.cs">
+      <DependentUpon>FrmPrintSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBackupRestore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBackupRestore.Designer.cs">
+      <DependentUpon>FrmBackupRestore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCreateChangeUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCreateChangeUser.Designer.cs">
+      <DependentUpon>FrmCreateChangeUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDBOperator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDBOperator.Designer.cs">
+      <DependentUpon>FrmDBOperator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReportViewer.Designer.cs">
+      <DependentUpon>FrmReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRoom.designer.cs">
+      <DependentUpon>FrmRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSetupLED.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSetupLED.Designer.cs">
+      <DependentUpon>frmSetupLED.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStartup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStartup.Designer.cs">
+      <DependentUpon>FrmStartup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTokenSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTokenSummary.designer.cs">
+      <DependentUpon>FrmTokenSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUpdateDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUpdateDB.Designer.cs">
+      <DependentUpon>FrmUpdateDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUserRight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUserRight.Designer.cs">
+      <DependentUpon>FrmUserRight.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVersion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVersion.Designer.cs">
+      <DependentUpon>FrmVersion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWait.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWait.Designer.cs">
+      <DependentUpon>FrmWait.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmCitiy.resx">
+      <DependentUpon>FrmCitiy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBranches.resx">
+      <DependentUpon>FrmBranches.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCorrection.resx">
+      <DependentUpon>frmCorrection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoctorCheckup.resx">
+      <DependentUpon>frmDoctorCheckup.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoctorChecupRoom.resx">
+      <DependentUpon>frmDoctorChecupRoom.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDonor.resx">
+      <DependentUpon>FrmDonor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmExistingToken.resx">
+      <DependentUpon>FrmExistingToken.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLabTest.resx">
+      <DependentUpon>FrmLabTest.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMembership.resx">
+      <DependentUpon>FrmMembership.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPatientCategories.resx">
+      <DependentUpon>frmPatientCategories.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPatientRegistration.resx">
+      <DependentUpon>frmPatientRegistration.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrintSummary.resx">
+      <DependentUpon>FrmPrintSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBackupRestore.resx">
+      <DependentUpon>FrmBackupRestore.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCreateChangeUser.resx">
+      <DependentUpon>FrmCreateChangeUser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDBOperator.resx">
+      <DependentUpon>FrmDBOperator.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReportViewer.resx">
+      <DependentUpon>FrmReportViewer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRoom.resx">
+      <DependentUpon>FrmRoom.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSetupLED.resx">
+      <DependentUpon>frmSetupLED.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStartup.resx">
+      <DependentUpon>FrmStartup.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTokenSummary.resx">
+      <DependentUpon>FrmTokenSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUpdateDB.resx">
+      <DependentUpon>FrmUpdateDB.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUserRight.resx">
+      <DependentUpon>FrmUserRight.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVersion.resx">
+      <DependentUpon>FrmVersion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWait.resx">
+      <DependentUpon>FrmWait.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForms\FrmBranchWithCityReport.resx">
+      <DependentUpon>FrmBranchWithCityReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForms\FrmDonorReport.resx">
+      <DependentUpon>FrmDonorReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForms\frmDonorsReport.resx">
+      <DependentUpon>frmDonorsReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForms\FrmMembershipReport.resx">
+      <DependentUpon>FrmMembershipReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptDonorsData.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDonorsData.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptAllTokenReceipt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptAllTokenReceipt.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptBranchwithCity.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptBranchwithCity.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptInectionToken.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptInectionToken.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptJust4Load.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptJust4Load.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptLabels.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptLabels.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptLabTestToken.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptLabTestToken.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptMembersData.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptMembersData.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptTokenReceipt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptTokenReceipt.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchForms\FrmGrd.resx">
+      <DependentUpon>FrmGrd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchForms\FrmResult.resx">
+      <DependentUpon>FrmResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchForms\FrmSearchUser.resx">
+      <DependentUpon>FrmSearchUser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchForms\SchBranch.resx">
+      <DependentUpon>SchBranch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchForms\SchCity.resx">
+      <DependentUpon>SchCity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchForms\SchMembership.resx">
+      <DependentUpon>SchMembership.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchForms\SchDonor.resx">
+      <DependentUpon>SchDonor.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="Properties\DataSources\Common.Datasets.DsPrintedInvoices+PrintedInvoicesDataTable.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ReportForms\FrmBranchWithCityReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForms\FrmBranchWithCityReport.Designer.cs">
+      <DependentUpon>FrmBranchWithCityReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForms\FrmDonorReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForms\FrmDonorReport.Designer.cs">
+      <DependentUpon>FrmDonorReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForms\frmDonorsReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForms\frmDonorsReport.Designer.cs">
+      <DependentUpon>frmDonorsReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForms\FrmMembershipReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForms\FrmMembershipReport.Designer.cs">
+      <DependentUpon>FrmMembershipReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\rptDonorsData.cs">
+      <DependentUpon>rptDonorsData.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reports\rptAllTokenReceipt.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptAllTokenReceipt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptBranchwithCity.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptBranchwithCity.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptInectionToken.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptInectionToken.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptJust4Load.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptJust4Load.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptLabels.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptLabels.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptLabTestToken.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptLabTestToken.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptMembersData.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptMembersData.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptTokenReceipt.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptTokenReceipt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SearchForms\FrmGrd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchForms\FrmGrd.Designer.cs">
+      <DependentUpon>FrmGrd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchForms\FrmResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchForms\FrmResult.Designer.cs">
+      <DependentUpon>FrmResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchForms\FrmSearchUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchForms\FrmSearchUser.Designer.cs">
+      <DependentUpon>FrmSearchUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchForms\SchBranch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchForms\SchBranch.Designer.cs">
+      <DependentUpon>SchBranch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchForms\SchCity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchForms\SchCity.Designer.cs">
+      <DependentUpon>SchCity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchForms\SchMembership.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchForms\SchMembership.Designer.cs">
+      <DependentUpon>SchMembership.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchForms\SchDonor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchForms\SchDonor.Designer.cs">
+      <DependentUpon>SchDonor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{68757524-4B24-4E42-B5B7-C50EC23B1673}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{20BF5F33-5DA3-4D5F-B18B-CCD5FCE9E2D8}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VBCLSUR\VBCLSUR.vbproj">
+      <Project>{8511906E-AEEF-4281-B4CC-92275DEFB6FF}</Project>
+      <Name>VBCLSUR</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Green-006-loading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

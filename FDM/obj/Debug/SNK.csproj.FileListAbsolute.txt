@@ -1,0 +1,66 @@
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\bin\Debug\SNK.exe
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\bin\Debug\SNK.pdb
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\obj\Debug\ResolveAssemblyReference.cache
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\obj\Debug\SNK.Properties.Resources.resources
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\obj\Debug\SNK.csproj.GenerateResource.Cache
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\obj\Debug\SNK.exe
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\obj\Debug\SNK.pdb
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\bin\Debug\BLL.dll
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\bin\Debug\Common.dll
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\bin\Debug\VBCLSUR.dll
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\bin\Debug\Interop.PeachwServer.dll
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\bin\Debug\DAL.dll
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\bin\Debug\OleDbHelper.dll
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\bin\Debug\ExportImport.dll
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\bin\Debug\Common.pdb
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\bin\Debug\BLL.pdb
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\bin\Debug\VBCLSUR.pdb
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\bin\Debug\VBCLSUR.xml
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\bin\Debug\DAL.pdb
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\bin\Debug\OleDbHelper.pdb
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\bin\Debug\ExportImport.pdb
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\obj\Debug\SNK.FrmPrintLabels.resources
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\obj\Debug\SNK.FrmBackupRestore.resources
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\obj\Debug\SNK.FrmCreateChangeUser.resources
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\obj\Debug\SNK.FrmDBOperator.resources
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\obj\Debug\SNK.FrmLogin.resources
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\obj\Debug\SNK.FrmMain.resources
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\obj\Debug\SNK.FrmUpdateDB.resources
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\obj\Debug\SNK.FrmVersion.resources
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\obj\Debug\SNK.FrmWait.resources
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\obj\Debug\SNK.FrmSearchUser.resources
+F:\Omer Aziz Data\Products by LOCS dev\Tom Projects\SNK\SNK\obj\Debug\SNK.FrmStartup.resources
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\obj\Debug\SNK.exe
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\obj\Debug\SNK.pdb
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\bin\Debug\SNK.exe
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\bin\Debug\SNK.pdb
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\bin\Debug\BLL.dll
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\bin\Debug\Common.dll
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\bin\Debug\VBCLSUR.dll
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\bin\Debug\Interop.PeachwServer.dll
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\bin\Debug\DAL.dll
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\bin\Debug\OleDbHelper.dll
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\bin\Debug\ExportImport.dll
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\bin\Debug\Common.pdb
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\bin\Debug\BLL.pdb
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\bin\Debug\VBCLSUR.pdb
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\bin\Debug\VBCLSUR.xml
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\bin\Debug\DAL.pdb
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\bin\Debug\OleDbHelper.pdb
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\bin\Debug\ExportImport.pdb
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\obj\Debug\ResolveAssemblyReference.cache
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\obj\Debug\SNK.FrmPrintLabels.resources
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\obj\Debug\SNK.FrmBackupRestore.resources
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\obj\Debug\SNK.FrmCreateChangeUser.resources
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\obj\Debug\SNK.FrmDBOperator.resources
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\obj\Debug\SNK.FrmLogin.resources
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\obj\Debug\SNK.FrmMain.resources
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\obj\Debug\SNK.FrmStartup.resources
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\obj\Debug\SNK.FrmUpdateDB.resources
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\obj\Debug\SNK.FrmVersion.resources
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\obj\Debug\SNK.FrmWait.resources
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\obj\Debug\SNK.Properties.Resources.resources
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\obj\Debug\SNK.FrmSearchUser.resources
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\obj\Debug\SNK.csproj.GenerateResource.Cache
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\obj\Debug\SNK.FrmReportViewer.resources
+E:\faheem data\TOM projects\3.5\Enhancements\SNK\SNK\bin\Debug\SNK.exe.config

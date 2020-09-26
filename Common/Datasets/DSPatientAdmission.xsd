@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSPatientAdmission" targetNamespace="http://tempuri.org/DSPatientAdmission.xsd" xmlns:mstns="http://tempuri.org/DSPatientAdmission.xsd" xmlns="http://tempuri.org/DSPatientAdmission.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSPatientAdmission" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DSPatientAdmission" msprop:Generator_UserDSName="DSPatientAdmission">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PatientAdmission" msprop:Generator_TableClassName="PatientAdmissionDataTable" msprop:Generator_TableVarName="tablePatientAdmission" msprop:Generator_TablePropName="PatientAdmission" msprop:Generator_RowDeletingName="PatientAdmissionRowDeleting" msprop:Generator_RowChangingName="PatientAdmissionRowChanging" msprop:Generator_RowEvHandlerName="PatientAdmissionRowChangeEventHandler" msprop:Generator_RowDeletedName="PatientAdmissionRowDeleted" msprop:Generator_UserTableName="PatientAdmission" msprop:Generator_RowChangedName="PatientAdmissionRowChanged" msprop:Generator_RowEvArgName="PatientAdmissionRowChangeEvent" msprop:Generator_RowClassName="PatientAdmissionRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Pluse" msprop:Generator_ColumnVarNameInTable="columnPluse" msprop:Generator_ColumnPropNameInRow="Pluse" msprop:Generator_ColumnPropNameInTable="PluseColumn" msprop:Generator_UserColumnName="Pluse" type="xs:string" minOccurs="0" />
+              <xs:element name="BP" msprop:Generator_ColumnVarNameInTable="columnBP" msprop:Generator_ColumnPropNameInRow="BP" msprop:Generator_ColumnPropNameInTable="BPColumn" msprop:Generator_UserColumnName="BP" type="xs:string" minOccurs="0" />
+              <xs:element name="RR" msprop:Generator_ColumnVarNameInTable="columnRR" msprop:Generator_ColumnPropNameInRow="RR" msprop:Generator_ColumnPropNameInTable="RRColumn" msprop:Generator_UserColumnName="RR" type="xs:string" minOccurs="0" />
+              <xs:element name="AdmissionDate" msprop:Generator_ColumnVarNameInTable="columnAdmissionDate" msprop:Generator_ColumnPropNameInRow="AdmissionDate" msprop:Generator_ColumnPropNameInTable="AdmissionDateColumn" msprop:Generator_UserColumnName="AdmissionDate" type="xs:string" minOccurs="0" />
+              <xs:element name="DiffDiag" msprop:Generator_ColumnVarNameInTable="columnDiffDiag" msprop:Generator_ColumnPropNameInRow="DiffDiag" msprop:Generator_ColumnPropNameInTable="DiffDiagColumn" msprop:Generator_UserColumnName="DiffDiag" type="xs:string" minOccurs="0" />
+              <xs:element name="ProvDiag" msprop:Generator_ColumnVarNameInTable="columnProvDiag" msprop:Generator_ColumnPropNameInRow="ProvDiag" msprop:Generator_ColumnPropNameInTable="ProvDiagColumn" msprop:Generator_UserColumnName="ProvDiag" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,14 @@
+<PAW_Company_Information xmlns:paw="urn:schemas-peachtree-com/paw8.02-datatypes"
+xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance"
+xmlns:xsd="http://www.w3.org/2000/10/XMLSchema-datatypes">
+<PAW_Company_Info xsi:type="paw:company_info">
+	<Name>Bellwether Garden Supply</Name>
+	<Address1>1505 Pavilion Place</Address1>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093-3203</Zip>
+	<Country>USA</Country>
+	<Telephone>770-724-4000</Telephone>
+	<Fax>770-555-1234</Fax>
+</PAW_Company_Info>
+</PAW_Company_Information>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSMedicinesIssuedAndReceived" targetNamespace="http://tempuri.org/DSMedicinesIssuedAndReceived.xsd" xmlns:mstns="http://tempuri.org/DSMedicinesIssuedAndReceived.xsd" xmlns="http://tempuri.org/DSMedicinesIssuedAndReceived.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSMedicinesIssuedAndReceived" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSMedicinesIssuedAndReceived" msprop:Generator_DataSetName="DSMedicinesIssuedAndReceived" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DTMedicinesIssuedAndReceived" msprop:Generator_UserTableName="DTMedicinesIssuedAndReceived" msprop:Generator_RowDeletedName="DTMedicinesIssuedAndReceivedRowDeleted" msprop:Generator_RowChangedName="DTMedicinesIssuedAndReceivedRowChanged" msprop:Generator_RowClassName="DTMedicinesIssuedAndReceivedRow" msprop:Generator_RowChangingName="DTMedicinesIssuedAndReceivedRowChanging" msprop:Generator_RowEvArgName="DTMedicinesIssuedAndReceivedRowChangeEvent" msprop:Generator_RowEvHandlerName="DTMedicinesIssuedAndReceivedRowChangeEventHandler" msprop:Generator_TableClassName="DTMedicinesIssuedAndReceivedDataTable" msprop:Generator_TableVarName="tableDTMedicinesIssuedAndReceived" msprop:Generator_RowDeletingName="DTMedicinesIssuedAndReceivedRowDeleting" msprop:Generator_TablePropName="DTMedicinesIssuedAndReceived">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RecieveDate" msprop:Generator_UserColumnName="RecieveDate" msprop:Generator_ColumnPropNameInRow="RecieveDate" msprop:Generator_ColumnVarNameInTable="columnRecieveDate" msprop:Generator_ColumnPropNameInTable="RecieveDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ItemNumber" msprop:Generator_UserColumnName="ItemNumber" msprop:Generator_ColumnVarNameInTable="columnItemNumber" msprop:Generator_ColumnPropNameInRow="ItemNumber" msprop:Generator_ColumnPropNameInTable="ItemNumberColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="ItemName" msprop:Generator_UserColumnName="ItemName" msprop:Generator_ColumnVarNameInTable="columnItemName" msprop:Generator_ColumnPropNameInRow="ItemName" msprop:Generator_ColumnPropNameInTable="ItemNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalRecieved" msprop:Generator_UserColumnName="TotalRecieved" msprop:Generator_ColumnPropNameInRow="TotalRecieved" msprop:Generator_ColumnVarNameInTable="columnTotalRecieved" msprop:Generator_ColumnPropNameInTable="TotalRecievedColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="TotalConsumed" msprop:Generator_UserColumnName="TotalConsumed" msprop:Generator_ColumnVarNameInTable="columnTotalConsumed" msprop:Generator_ColumnPropNameInRow="TotalConsumed" msprop:Generator_ColumnPropNameInTable="TotalConsumedColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="NetQty" msprop:Generator_UserColumnName="NetQty" msprop:Generator_ColumnVarNameInTable="columnNetQty" msprop:Generator_ColumnPropNameInRow="NetQty" msprop:Generator_ColumnPropNameInTable="NetQtyColumn" type="xs:short" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

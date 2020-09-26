@@ -1,0 +1,128 @@
+<PAW_Accounting_Periods xmlns:paw="urn:schemas-peachtree-com/paw8.02-datatypes"
+xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance"
+xmlns:xsd="http://www.w3.org/2000/10/XMLSchema-datatypes">
+<PAW_Accounting_Period xsi:type="paw:accounting_periods">
+	<NumberOfPeriodsPerYear>12</NumberOfPeriodsPerYear>
+	<Periods>
+	<Period>
+	<Number>1</Number>
+	<BeginDate xsi:type="paw:date">01/01/2012</BeginDate>
+	<EndDate xsi:type="paw:date">01/31/2012</EndDate>
+	</Period>
+	<Period>
+	<Number>2</Number>
+	<BeginDate xsi:type="paw:date">02/01/2012</BeginDate>
+	<EndDate xsi:type="paw:date">02/28/2012</EndDate>
+	</Period>
+	<Period>
+	<Number>3</Number>
+	<BeginDate xsi:type="paw:date">03/01/2012</BeginDate>
+	<EndDate xsi:type="paw:date">03/31/2012</EndDate>
+	</Period>
+	<Period>
+	<Number>4</Number>
+	<BeginDate xsi:type="paw:date">04/01/2012</BeginDate>
+	<EndDate xsi:type="paw:date">04/30/2012</EndDate>
+	</Period>
+	<Period>
+	<Number>5</Number>
+	<BeginDate xsi:type="paw:date">05/01/2012</BeginDate>
+	<EndDate xsi:type="paw:date">05/31/2012</EndDate>
+	</Period>
+	<Period>
+	<Number>6</Number>
+	<BeginDate xsi:type="paw:date">06/01/2012</BeginDate>
+	<EndDate xsi:type="paw:date">06/30/2012</EndDate>
+	</Period>
+	<Period>
+	<Number>7</Number>
+	<BeginDate xsi:type="paw:date">07/01/2012</BeginDate>
+	<EndDate xsi:type="paw:date">07/31/2012</EndDate>
+	</Period>
+	<Period>
+	<Number>8</Number>
+	<BeginDate xsi:type="paw:date">08/01/2012</BeginDate>
+	<EndDate xsi:type="paw:date">08/31/2012</EndDate>
+	</Period>
+	<Period>
+	<Number>9</Number>
+	<BeginDate xsi:type="paw:date">09/01/2012</BeginDate>
+	<EndDate xsi:type="paw:date">09/30/2012</EndDate>
+	</Period>
+	<Period>
+	<Number>10</Number>
+	<BeginDate xsi:type="paw:date">10/01/2012</BeginDate>
+	<EndDate xsi:type="paw:date">10/31/2012</EndDate>
+	</Period>
+	<Period>
+	<Number>11</Number>
+	<BeginDate xsi:type="paw:date">11/01/2012</BeginDate>
+	<EndDate xsi:type="paw:date">11/30/2012</EndDate>
+	</Period>
+	<Period>
+	<Number>12</Number>
+	<BeginDate xsi:type="paw:date">12/01/2012</BeginDate>
+	<EndDate xsi:type="paw:date">12/31/2012</EndDate>
+	</Period>
+	<Period>
+	<Number>13</Number>
+	<BeginDate xsi:type="paw:date">01/01/2013</BeginDate>
+	<EndDate xsi:type="paw:date">01/31/2013</EndDate>
+	</Period>
+	<Period>
+	<Number>14</Number>
+	<BeginDate xsi:type="paw:date">02/01/2013</BeginDate>
+	<EndDate xsi:type="paw:date">02/28/2013</EndDate>
+	</Period>
+	<Period>
+	<Number>15</Number>
+	<BeginDate xsi:type="paw:date">03/01/2013</BeginDate>
+	<EndDate xsi:type="paw:date">03/31/2013</EndDate>
+	</Period>
+	<Period>
+	<Number>16</Number>
+	<BeginDate xsi:type="paw:date">04/01/2013</BeginDate>
+	<EndDate xsi:type="paw:date">04/30/2013</EndDate>
+	</Period>
+	<Period>
+	<Number>17</Number>
+	<BeginDate xsi:type="paw:date">05/01/2013</BeginDate>
+	<EndDate xsi:type="paw:date">05/31/2013</EndDate>
+	</Period>
+	<Period>
+	<Number>18</Number>
+	<BeginDate xsi:type="paw:date">06/01/2013</BeginDate>
+	<EndDate xsi:type="paw:date">06/30/2013</EndDate>
+	</Period>
+	<Period>
+	<Number>19</Number>
+	<BeginDate xsi:type="paw:date">07/01/2013</BeginDate>
+	<EndDate xsi:type="paw:date">07/31/2013</EndDate>
+	</Period>
+	<Period>
+	<Number>20</Number>
+	<BeginDate xsi:type="paw:date">08/01/2013</BeginDate>
+	<EndDate xsi:type="paw:date">08/31/2013</EndDate>
+	</Period>
+	<Period>
+	<Number>21</Number>
+	<BeginDate xsi:type="paw:date">09/01/2013</BeginDate>
+	<EndDate xsi:type="paw:date">09/30/2013</EndDate>
+	</Period>
+	<Period>
+	<Number>22</Number>
+	<BeginDate xsi:type="paw:date">10/01/2013</BeginDate>
+	<EndDate xsi:type="paw:date">10/31/2013</EndDate>
+	</Period>
+	<Period>
+	<Number>23</Number>
+	<BeginDate xsi:type="paw:date">11/01/2013</BeginDate>
+	<EndDate xsi:type="paw:date">11/30/2013</EndDate>
+	</Period>
+	<Period>
+	<Number>24</Number>
+	<BeginDate xsi:type="paw:date">12/01/2013</BeginDate>
+	<EndDate xsi:type="paw:date">12/31/2013</EndDate>
+	</Period>
+</Periods></PAW_Accounting_Period>
+</PAW_Accounting_Periods>

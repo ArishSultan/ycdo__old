@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSDonorAndMemberCollection" targetNamespace="http://tempuri.org/DSDonorAndMemberCollection.xsd" xmlns:mstns="http://tempuri.org/DSDonorAndMemberCollection.xsd" xmlns="http://tempuri.org/DSDonorAndMemberCollection.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" GeneratorFunctionsComponentClassName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" UserFunctionsComponentName="QueriesTableAdapter" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSDonorAndMemberCollection" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSDonorAndMemberCollection" msprop:Generator_DataSetName="DSDonorAndMemberCollection" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DonorAndMemberCollection" msprop:Generator_UserTableName="DonorAndMemberCollection" msprop:Generator_RowDeletedName="DonorAndMemberCollectionRowDeleted" msprop:Generator_RowChangedName="DonorAndMemberCollectionRowChanged" msprop:Generator_RowClassName="DonorAndMemberCollectionRow" msprop:Generator_RowChangingName="DonorAndMemberCollectionRowChanging" msprop:Generator_RowEvArgName="DonorAndMemberCollectionRowChangeEvent" msprop:Generator_RowEvHandlerName="DonorAndMemberCollectionRowChangeEventHandler" msprop:Generator_TableClassName="DonorAndMemberCollectionDataTable" msprop:Generator_TableVarName="tableDonorAndMemberCollection" msprop:Generator_RowDeletingName="DonorAndMemberCollectionRowDeleting" msprop:Generator_TablePropName="DonorAndMemberCollection">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DonorName" msprop:Generator_UserColumnName="DonorName" msprop:Generator_ColumnVarNameInTable="columnDonorName" msprop:Generator_ColumnPropNameInRow="DonorName" msprop:Generator_ColumnPropNameInTable="DonorNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CollectionDate" msprop:Generator_UserColumnName="CollectionDate" msprop:Generator_ColumnVarNameInTable="columnCollectionDate" msprop:Generator_ColumnPropNameInRow="CollectionDate" msprop:Generator_ColumnPropNameInTable="CollectionDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ReciptNo" msprop:Generator_UserColumnName="ReciptNo" msprop:Generator_ColumnVarNameInTable="columnReciptNo" msprop:Generator_ColumnPropNameInRow="ReciptNo" msprop:Generator_ColumnPropNameInTable="ReciptNoColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="CollectionFee" msprop:Generator_UserColumnName="CollectionFee" msprop:Generator_ColumnVarNameInTable="columnCollectionFee" msprop:Generator_ColumnPropNameInRow="CollectionFee" msprop:Generator_ColumnPropNameInTable="CollectionFeeColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="DonationType" msprop:Generator_UserColumnName="DonationType" msprop:Generator_ColumnPropNameInRow="DonationType" msprop:Generator_ColumnVarNameInTable="columnDonationType" msprop:Generator_ColumnPropNameInTable="DonationTypeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CheckDetail" msprop:Generator_UserColumnName="CheckDetail" msprop:Generator_ColumnPropNameInRow="CheckDetail" msprop:Generator_ColumnVarNameInTable="columnCheckDetail" msprop:Generator_ColumnPropNameInTable="CheckDetailColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Other" msprop:Generator_UserColumnName="Other" msprop:Generator_ColumnPropNameInRow="Other" msprop:Generator_ColumnVarNameInTable="columnOther" msprop:Generator_ColumnPropNameInTable="OtherColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

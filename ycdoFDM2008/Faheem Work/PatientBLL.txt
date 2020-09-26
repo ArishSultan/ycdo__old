@@ -1,0 +1,4 @@
+  public bool PatientChecked(PatientRegistration pr,List<LabTest >meds)
+        {
+            return new PatientDAL().PatientChecked(pr,meds );
+        }

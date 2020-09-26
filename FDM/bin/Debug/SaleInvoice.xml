@@ -1,0 +1,1362 @@
+<PAW_Invoices xmlns:paw="urn:schemas-peachtree-com/paw8.02-datatypes"
+xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance"
+xmlns:xsd="http://www.w3.org/2000/10/XMLSchema-datatypes">
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SNOWDEN</Customer_ID>
+	<Customer_Name>Snowden Interior Design</Customer_Name>
+	<Invoice_Number>10201</Invoice_Number>
+	<Date xsi:type="paw:date">2/3/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{60D5F284-4689-4982-8584-80E85DEF8B8B}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SMITH</Customer_ID>
+	<Customer_Name>Smith Family Garden Center</Customer_Name>
+	<Invoice_Number>10203</Invoice_Number>
+	<Date xsi:type="paw:date">2/10/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{11C4F9F7-EC9B-4383-B8F7-54B2636F2D7E}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">MOSLEY</Customer_ID>
+	<Customer_Name>Mosley Country Club</Customer_Name>
+	<Invoice_Number>10204</Invoice_Number>
+	<Date xsi:type="paw:date">2/10/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{47E42E5F-B50B-4295-B149-30AB62893B2E}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">FREEMOND</Customer_ID>
+	<Customer_Name>Freemond Country Club</Customer_Name>
+	<Invoice_Number>10206</Invoice_Number>
+	<Date xsi:type="paw:date">2/13/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{73DD996E-D95F-47FC-A9FC-810991CAACB1}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">PIERCE</Customer_ID>
+	<Customer_Name>Pierce Properties, Inc.</Customer_Name>
+	<Invoice_Number>10208</Invoice_Number>
+	<Date xsi:type="paw:date">2/13/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{6C5147E4-69E0-4618-A8BB-00B7D3E53E5A}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ROSE</Customer_ID>
+	<Customer_Name>Rose University</Customer_Name>
+	<Invoice_Number>10120</Invoice_Number>
+	<Date xsi:type="paw:date">2/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Rose University</Name>
+	<Line1>4444 Peachtree Road NE</Line1>
+	<City>Atlanta</City>
+	<State>GA</State>
+	<Zip>30333</Zip>
+</ShipToAddress>	<Ship_Via>Hand Deliver</Ship_Via>
+	<GUID>{30AA10B2-78E8-474C-B6B5-96193E02D6BC}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">HENTON</Customer_ID>
+	<Customer_Name>Henton Park Apartments</Customer_Name>
+	<Invoice_Number>10123</Invoice_Number>
+	<Date xsi:type="paw:date">2/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Henton Park Apartments</Name>
+	<Line1>15560 Harrison Road</Line1>
+	<City>Atlanta</City>
+	<State>GA</State>
+	<Zip>30344</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{EF68C4AE-842A-4C86-848E-FA276C3C5E65}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SMITH</Customer_ID>
+	<Customer_Name>Smith Family Garden Center</Customer_Name>
+	<Invoice_Number>10125</Invoice_Number>
+	<Date xsi:type="paw:date">2/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Smith Family Garden Center</Name>
+	<Line1>5432 Peachtree Road</Line1>
+	<City>Atlanta</City>
+	<State>GA</State>
+	<Zip>30025</Zip>
+</ShipToAddress>	<Ship_Via>Cust. Pickup</Ship_Via>
+	<GUID>{F2E1A1A2-6101-4FEA-AE74-E409C5A420E4}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ALDRED</Customer_ID>
+	<Customer_Name>Aldred Builders, Inc.</Customer_Name>
+	<Invoice_Number>10129</Invoice_Number>
+	<Date xsi:type="paw:date">2/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>Cust. Pickup</Ship_Via>
+	<GUID>{DCD7B6CF-3F98-46BA-82A7-5AAEF464CDD8}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ROBERTS</Customer_ID>
+	<Customer_Name>Roberts Learning Centers</Customer_Name>
+	<Invoice_Number>10210</Invoice_Number>
+	<Date xsi:type="paw:date">2/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>Cust. Pickup</Ship_Via>
+	<GUID>{0ECDE668-7870-42C8-88F1-6383406EA957}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SNOWDEN</Customer_ID>
+	<Customer_Name>Snowden Interior Design</Customer_Name>
+	<Invoice_Number>10325</Invoice_Number>
+	<Date xsi:type="paw:date">2/16/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Coleman Realty</Name>
+	<Line1>1890 Singleton Road</Line1>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Customer_PO>213456</Customer_PO>
+	<Ship_Via>None</Ship_Via>
+	<GUID>{AA2AFB45-8FC1-4A30-B510-C2776ED08F88}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">EVERLY</Customer_ID>
+	<Customer_Name>Everly Property Management</Customer_Name>
+	<Invoice_Number>10205</Invoice_Number>
+	<Date xsi:type="paw:date">2/19/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{1C74BB95-6697-4B1D-B18E-0871AED39F17}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">HENTON</Customer_ID>
+	<Customer_Name>Henton Park Apartments</Customer_Name>
+	<Invoice_Number>10207</Invoice_Number>
+	<Date xsi:type="paw:date">2/20/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{97957EF5-8F69-4013-BB20-C6F26C049000}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">THURMAN</Customer_ID>
+	<Customer_Name>Thurman Golf Course Design</Customer_Name>
+	<Invoice_Number>10119</Invoice_Number>
+	<Date xsi:type="paw:date">2/21/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Thurman Golf Course Design</Name>
+	<Line1>3501 Northside Drive</Line1>
+	<City>Atlanta</City>
+	<State>GA</State>
+	<Zip>30333</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{2CC5FAFB-E791-4613-965F-9A1E434DA002}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ARMSTRONG</Customer_ID>
+	<Customer_Name>Armstrong Landscaping</Customer_Name>
+	<Invoice_Number>10326</Invoice_Number>
+	<Date xsi:type="paw:date">2/22/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Harding Consulting</Name>
+	<Line1>2300 Club Drive</Line1>
+	<Line2>Suite A</Line2>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{54F118A9-3A01-45F9-AF47-2024065E592D}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ARMSTRONG</Customer_ID>
+	<Customer_Name>Armstrong Landscaping</Customer_Name>
+	<Invoice_Number>10120</Invoice_Number>
+	<Date xsi:type="paw:date">2/22/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Harding Consulting</Name>
+	<Line1>2300 Club Drive</Line1>
+	<Line2>Suite A</Line2>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Ship_Via>Cust. Pickup</Ship_Via>
+	<GUID>{9E685D02-D3D4-43AE-AAAA-72D9AA4A477A}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">EVERLY</Customer_ID>
+	<Customer_Name>Everly Property Management</Customer_Name>
+	<Invoice_Number>10208</Invoice_Number>
+	<Date xsi:type="paw:date">2/23/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{94423F62-CD0C-4054-B026-1691A62A88B2}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ARCHER</Customer_ID>
+	<Customer_Name>Archer Scapes and Ponds</Customer_Name>
+	<Invoice_Number>10209</Invoice_Number>
+	<Date xsi:type="paw:date">2/23/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Spencer Software</Name>
+	<Line1>778 Oakland Parkway</Line1>
+	<City>Alpharetta</City>
+	<State>GA</State>
+	<Zip>30092</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{439519D8-60C8-42CC-BBD7-01F594C710FF}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">GORDON</Customer_ID>
+	<Customer_Name>Gordon Park &amp; Recreation Center</Customer_Name>
+	<Invoice_Number>10123</Invoice_Number>
+	<Date xsi:type="paw:date">2/26/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>Hand Deliver</Ship_Via>
+	<GUID>{78A0876A-9915-4C7D-91E1-1B46AB11A50F}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">TACOMA</Customer_ID>
+	<Customer_Name>Tacoma Park Golf Course</Customer_Name>
+	<Invoice_Number>10126</Invoice_Number>
+	<Date xsi:type="paw:date">2/26/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Tacoma Park Golf Course</Name>
+	<Line1>3545 The Experience Boulevard</Line1>
+	<City>Duluth</City>
+	<State>GA</State>
+	<Zip>30029</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{120A5CE9-716A-497D-980F-B54E71A9245A}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SNOWDEN</Customer_ID>
+	<Customer_Name>Snowden Interior Design</Customer_Name>
+	<Invoice_Number>CCM4001</Invoice_Number>
+	<Date xsi:type="paw:date">2/27/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Coleman Realty</Name>
+	<Line1>1890 Singleton Road</Line1>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Customer_PO>213456</Customer_PO>
+	<GUID>{AE0FEB78-1740-4BE7-A7DB-7C997EBE65DA}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SNOWDEN</Customer_ID>
+	<Customer_Name>Snowden Interior Design</Customer_Name>
+	<Invoice_Number>CCM4001</Invoice_Number>
+	<Date xsi:type="paw:date">2/27/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Coleman Realty</Name>
+	<Line1>1890 Singleton Road</Line1>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Customer_PO>213456</Customer_PO>
+	<GUID>{AE0FEB78-1740-4BE7-A7DB-7C997EBE65DA}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SNOWDEN</Customer_ID>
+	<Customer_Name>Snowden Interior Design</Customer_Name>
+	<Invoice_Number>CCM4001</Invoice_Number>
+	<Date xsi:type="paw:date">2/27/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Coleman Realty</Name>
+	<Line1>1890 Singleton Road</Line1>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Customer_PO>213456</Customer_PO>
+	<GUID>{AE0FEB78-1740-4BE7-A7DB-7C997EBE65DA}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ARMSTRONG</Customer_ID>
+	<Customer_Name>Armstrong Landscaping</Customer_Name>
+	<Invoice_Number>10212</Invoice_Number>
+	<Date xsi:type="paw:date">2/27/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Harding Consulting</Name>
+	<Line1>2300 Club Drive</Line1>
+	<Line2>Suite A</Line2>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{A0D38543-421B-4874-ABCE-4CA9BF286CD6}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SNYDER</Customer_ID>
+	<Customer_Name>Snyder Securities</Customer_Name>
+	<Invoice_Number>10127</Invoice_Number>
+	<Date xsi:type="paw:date">2/28/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{05C0A87C-158B-4592-8DC6-B94064396454}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">THURMAN</Customer_ID>
+	<Customer_Name>Thurman Golf Course Design</Customer_Name>
+	<Invoice_Number>10130</Invoice_Number>
+	<Date xsi:type="paw:date">2/28/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Thurman Golf Course Design</Name>
+	<Line1>3501 Northside Drive</Line1>
+	<City>Atlanta</City>
+	<State>GA</State>
+	<Zip>30333</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{A21F5C88-2715-4EA0-BF9F-25AF6DA58A32}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SAIA</Customer_ID>
+	<Customer_Name>Saia&apos;s Neighborhood Nursery</Customer_Name>
+	<Invoice_Number>10212</Invoice_Number>
+	<Date xsi:type="paw:date">2/28/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{162EFC01-12D5-4891-A070-F777073C6E44}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SAIA</Customer_ID>
+	<Customer_Name>Saia&apos;s Neighborhood Nursery</Customer_Name>
+	<Invoice_Number>10215</Invoice_Number>
+	<Date xsi:type="paw:date">2/28/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{D322C178-2153-48E8-BBD3-BBCA4CA8AE9F}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">DASH</Customer_ID>
+	<Customer_Name>Dash Business Systems</Customer_Name>
+	<Invoice_Number>10327</Invoice_Number>
+	<Date xsi:type="paw:date">3/1/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Sharp Business Systems</Name>
+	<Line1>1448 Steve Reynolds Blvd.</Line1>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{94F10692-3E44-4083-A947-F81E2A49D2B9}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ARMSTRONG</Customer_ID>
+	<Customer_Name>Armstrong Landscaping</Customer_Name>
+	<Invoice_Number>10226</Invoice_Number>
+	<Date xsi:type="paw:date">3/1/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Harding Consulting</Name>
+	<Line1>2300 Club Drive</Line1>
+	<Line2>Suite A</Line2>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{619D794B-4E6C-45FD-A2D7-696B2121FC34}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">FREEMOND</Customer_ID>
+	<Customer_Name>Freemond Country Club</Customer_Name>
+	<Invoice_Number>10227</Invoice_Number>
+	<Date xsi:type="paw:date">3/1/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Freeman Enterprises</Name>
+	<Line1>9845 Willow Trail Dr</Line1>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{1D0F4D4C-ABD5-469E-B5F4-FAF5AA41986D}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">CUMMINGS</Customer_ID>
+	<Customer_Name>Cummings Construction</Customer_Name>
+	<Invoice_Number>CCM4005</Invoice_Number>
+	<Date xsi:type="paw:date">3/1/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Cunningham Construction</Name>
+	<Line1>4785 Satellite Road</Line1>
+	<City>Duluth</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<GUID>{275D5458-E8B7-4378-A169-603F1991E12F}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SEAWRIGHT</Customer_ID>
+	<Customer_Name>Seawright Sod and Lawn Care</Customer_Name>
+	<Date xsi:type="paw:date">3/1/12</Date>
+	<isQuote>TRUE</isQuote>
+	<ShipToAddress>
+	<Name>Seawright Sod and Lawn Care</Name>
+	<Line1>1505 Ponce De Leon</Line1>
+	<City>Decatur</City>
+	<State>GA</State>
+	<Zip>30311</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{993E4925-DFF5-4AE5-8B09-A5EAB60AAB5C}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SEAWRIGHT</Customer_ID>
+	<Customer_Name>Seawright Sod and Lawn Care</Customer_Name>
+	<Invoice_Number>10225</Invoice_Number>
+	<Date xsi:type="paw:date">3/1/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Seawright Sod and Lawn Care</Name>
+	<Line1>1505 Ponce De Leon</Line1>
+	<City>Decatur</City>
+	<State>GA</State>
+	<Zip>30311</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{C429109A-89A2-432C-BEAD-31AF444B56A4}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">CHAPPLE</Customer_ID>
+	<Customer_Name>Chapple Law Offices</Customer_Name>
+	<Invoice_Number>10256</Invoice_Number>
+	<Date xsi:type="paw:date">3/1/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Chapple Law Offices</Name>
+	<Line1>12554 Lawrenceville Hwy.</Line1>
+	<City>Lilburn</City>
+	<State>GA</State>
+	<Zip>30095-1120</Zip>
+</ShipToAddress>	<Customer_PO>56123</Customer_PO>
+	<Ship_Via>None</Ship_Via>
+	<GUID>{7FBE9FDB-86E5-4E5E-B730-0266FC5F1299}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ARMSTRONG</Customer_ID>
+	<Customer_Name>Armstrong Landscaping</Customer_Name>
+	<Invoice_Number>CCM4002</Invoice_Number>
+	<Date xsi:type="paw:date">3/2/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Harding Consulting</Name>
+	<Line1>2300 Club Drive</Line1>
+	<Line2>Suite A</Line2>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<GUID>{9AF85A92-BECD-4CA1-ADBE-C821DB1E0B7B}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ARMSTRONG</Customer_ID>
+	<Customer_Name>Armstrong Landscaping</Customer_Name>
+	<Invoice_Number>CCM4002</Invoice_Number>
+	<Date xsi:type="paw:date">3/2/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Harding Consulting</Name>
+	<Line1>2300 Club Drive</Line1>
+	<Line2>Suite A</Line2>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<GUID>{9AF85A92-BECD-4CA1-ADBE-C821DB1E0B7B}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ARMSTRONG</Customer_ID>
+	<Customer_Name>Armstrong Landscaping</Customer_Name>
+	<Invoice_Number>CCM4002</Invoice_Number>
+	<Date xsi:type="paw:date">3/2/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Harding Consulting</Name>
+	<Line1>2300 Club Drive</Line1>
+	<Line2>Suite A</Line2>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<GUID>{9AF85A92-BECD-4CA1-ADBE-C821DB1E0B7B}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">FREEMOND</Customer_ID>
+	<Customer_Name>Freemond Country Club</Customer_Name>
+	<Invoice_Number>10337</Invoice_Number>
+	<Date xsi:type="paw:date">3/2/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Freeman Enterprises</Name>
+	<Line1>9845 Willow Trail Dr</Line1>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{32CC9217-652F-46BA-B823-8520AB4620CC}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">HOLLAND</Customer_ID>
+	<Customer_Name>Holland Properties, Inc.</Customer_Name>
+	<Invoice_Number>10211</Invoice_Number>
+	<Date xsi:type="paw:date">3/2/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Holland Properties, Inc.</Name>
+	<Line1>1577 Johnson Ferry Road</Line1>
+	<City>Marietta</City>
+	<State>GA</State>
+	<Zip>30062</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{38899330-33D4-40FB-9AD8-465A581C732D}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">EVERLY</Customer_ID>
+	<Customer_Name>Everly Property Management</Customer_Name>
+	<Invoice_Number>10301</Invoice_Number>
+	<Date xsi:type="paw:date">3/3/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{69709544-E9D0-41B6-BD8A-C1FCF9BFE67D}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">FREEMOND</Customer_ID>
+	<Customer_Name>Freemond Country Club</Customer_Name>
+	<Invoice_Number>10302</Invoice_Number>
+	<Date xsi:type="paw:date">3/3/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{7C3FE95D-0654-40C8-AA1C-D0CF4FADB8D1}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SNOWDEN</Customer_ID>
+	<Customer_Name>Snowden Interior Design</Customer_Name>
+	<Invoice_Number>10303</Invoice_Number>
+	<Date xsi:type="paw:date">3/3/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{AF170CB8-4219-41BF-81CF-06DA6CB7128B}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">MCKAY</Customer_ID>
+	<Customer_Name>McKay Construction</Customer_Name>
+	<Invoice_Number>10323</Invoice_Number>
+	<Date xsi:type="paw:date">3/3/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{0CB16224-9CF8-4831-AD5B-D85F6E468195}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">HOLLAND</Customer_ID>
+	<Customer_Name>Holland Properties, Inc.</Customer_Name>
+	<Invoice_Number>10304</Invoice_Number>
+	<Date xsi:type="paw:date">3/4/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{2A3658A7-878F-4CC0-A429-8247073AB189}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ARCHER</Customer_ID>
+	<Customer_Name>Archer Scapes and Ponds</Customer_Name>
+	<Invoice_Number>10329</Invoice_Number>
+	<Date xsi:type="paw:date">3/4/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Spencer Software</Name>
+	<Line1>778 Oakland Parkway</Line1>
+	<City>Alpharetta</City>
+	<State>GA</State>
+	<Zip>30092</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{A19ED889-D40D-4F8E-9A1D-8DDBA1D518C5}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SAIA</Customer_ID>
+	<Customer_Name>Saia&apos;s Neighborhood Nursery</Customer_Name>
+	<Invoice_Number>10330</Invoice_Number>
+	<Date xsi:type="paw:date">3/4/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{93E8AFCF-E224-4B6F-BE79-4D32A0A8833B}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ROBERTS</Customer_ID>
+	<Customer_Name>Roberts Learning Centers</Customer_Name>
+	<Invoice_Number>10331</Invoice_Number>
+	<Date xsi:type="paw:date">3/4/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{C48D2A6C-4BCF-4F01-A1DC-10B79FA72A62}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ALDRED</Customer_ID>
+	<Customer_Name>Aldred Builders, Inc.</Customer_Name>
+	<Invoice_Number>10332</Invoice_Number>
+	<Date xsi:type="paw:date">3/4/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{83C5F3C0-D4BE-40D3-8967-8BEE45D2C680}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">GORDON</Customer_ID>
+	<Customer_Name>Gordon Park &amp; Recreation Center</Customer_Name>
+	<Invoice_Number>10333</Invoice_Number>
+	<Date xsi:type="paw:date">3/4/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{E1F633D5-C245-4C90-83A0-D7614DF23534}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SNYDER</Customer_ID>
+	<Customer_Name>Snyder Securities</Customer_Name>
+	<Invoice_Number>10334</Invoice_Number>
+	<Date xsi:type="paw:date">3/4/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{3EE445EB-5C75-4BB4-9E4F-16B6BB2C0AF8}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">WILLIAMS</Customer_ID>
+	<Customer_Name>Williams Industries</Customer_Name>
+	<Invoice_Number>10312V</Invoice_Number>
+	<Date xsi:type="paw:date">3/5/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Williams Industries</Name>
+	<Line1>4552 Peachtree Industrial Blvd</Line1>
+	<City>Chamblee</City>
+	<State>GA</State>
+	<Zip>30329</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{12C903FA-BA60-4725-B3E4-B18AF8A7F1E1}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ARMSTRONG</Customer_ID>
+	<Customer_Name>Armstrong Landscaping</Customer_Name>
+	<Invoice_Number>10336</Invoice_Number>
+	<Date xsi:type="paw:date">3/5/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Harding Consulting</Name>
+	<Line1>2300 Club Drive</Line1>
+	<Line2>Suite A</Line2>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{D8A90AF4-0BA5-44B5-8ABB-7EA5A420920E}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">KENTON</Customer_ID>
+	<Customer_Name>Kenton Golf and Tennis Center</Customer_Name>
+	<Invoice_Number>10338</Invoice_Number>
+	<Date xsi:type="paw:date">3/6/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Kenton Golf and Tennis Center</Name>
+	<Line1>1969 Fort Solitude Circle</Line1>
+	<City>Centerville</City>
+	<State>GA</State>
+	<Zip>31028</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{48CD8549-919C-47BC-B6D5-08F6D467C32A}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">HOLLAND</Customer_ID>
+	<Customer_Name>Holland Properties, Inc.</Customer_Name>
+	<Invoice_Number>e2</Invoice_Number>
+	<Date xsi:type="paw:date">3/6/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Holland Properties, Inc.</Name>
+	<Line1>1577 Johnson Ferry Road</Line1>
+	<City>Marietta</City>
+	<State>GA</State>
+	<Zip>30062</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{A18F7591-1092-490A-A0C2-836F280CD770}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">FREEMOND</Customer_ID>
+	<Customer_Name>Freemond Country Club</Customer_Name>
+	<Invoice_Number>10302V</Invoice_Number>
+	<Date xsi:type="paw:date">3/7/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{91024DF7-4B36-46E0-92B0-5DCD2F7B4DE4}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">HOLLAND</Customer_ID>
+	<Customer_Name>Holland Properties, Inc.</Customer_Name>
+	<Invoice_Number>CCM4010</Invoice_Number>
+	<Date xsi:type="paw:date">3/7/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Holt Properties, Inc.</Name>
+	<Line1>1577 Johnson Ferry Road</Line1>
+	<City>Marietta</City>
+	<State>GA</State>
+	<Zip>30062</Zip>
+</ShipToAddress>	<GUID>{143BF033-1276-4D4A-B4B5-CCA212806CCB}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">FRANKLIN</Customer_ID>
+	<Customer_Name>Franklin Botanical Gardens</Customer_Name>
+	<Date xsi:type="paw:date">3/7/12</Date>
+	<isQuote>TRUE</isQuote>
+	<ShipToAddress>
+	<Name>Franklin Botanical Gardens</Name>
+	<Line1>4589 East Jefferson Blvd.</Line1>
+	<City>Alpharetta</City>
+	<State>GA</State>
+	<Zip>30004</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{2FA466C0-8D58-45BE-A301-2C2B9DD6F943}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">STEVENSON</Customer_ID>
+	<Customer_Name>Stevenson Leasing, Inc.</Customer_Name>
+	<Invoice_Number>10318</Invoice_Number>
+	<Date xsi:type="paw:date">3/8/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Stevenson Leasing, Inc.</Name>
+	<Line1>13554 Lawrenceville Hwy.</Line1>
+	<City>Lilburn</City>
+	<State>GA</State>
+	<Zip>30095-1120</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{323576A5-A8C9-433B-9B84-10D4C7DE2E63}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ARMSTRONG</Customer_ID>
+	<Customer_Name>Armstrong Landscaping</Customer_Name>
+	<Invoice_Number>CCM4007</Invoice_Number>
+	<Date xsi:type="paw:date">3/8/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Harding Consulting</Name>
+	<Line1>2300 Club Drive</Line1>
+	<Line2>Suite A</Line2>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<GUID>{3B6A12AE-8781-4240-BB26-8A0578735E8A}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">FROST</Customer_ID>
+	<Customer_Name>Frost Technology Park</Customer_Name>
+	<Invoice_Number>10319</Invoice_Number>
+	<Date xsi:type="paw:date">3/9/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Frost Technology Park</Name>
+	<Line1>1492 Indian Trail</Line1>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{666B27C1-98DB-4B8F-89E7-0BA3CCCEC27F}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ROSE</Customer_ID>
+	<Customer_Name>Rose University</Customer_Name>
+	<Invoice_Number>10320</Invoice_Number>
+	<Date xsi:type="paw:date">3/9/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Rose University</Name>
+	<Line1>4444 Peachtree Road NE</Line1>
+	<City>Atlanta</City>
+	<State>GA</State>
+	<Zip>30333</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{2245E6E7-0ECA-4540-90B6-D578B01FD610}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SMITH</Customer_ID>
+	<Customer_Name>Smith Family Garden Center</Customer_Name>
+	<Invoice_Number>10305</Invoice_Number>
+	<Date xsi:type="paw:date">3/10/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{CA77E050-B0DD-4BD0-B301-F5BDCF47ECAB}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SNOWDEN</Customer_ID>
+	<Customer_Name>Snowden Interior Design</Customer_Name>
+	<Invoice_Number>10306</Invoice_Number>
+	<Date xsi:type="paw:date">3/11/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{DF0897B7-1490-44ED-B49F-2BD13F4907E7}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">CANNON</Customer_ID>
+	<Customer_Name>Cannon Healthcare Center</Customer_Name>
+	<Invoice_Number>10321</Invoice_Number>
+	<Date xsi:type="paw:date">3/12/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Cannon Healthcare Center</Name>
+	<Line1>2300 Club Drive</Line1>
+	<Line2>Suite C</Line2>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{0A227446-FC04-4877-92C3-EB10A0C7F6A1}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">FREEMOND</Customer_ID>
+	<Customer_Name>Freemond Country Club</Customer_Name>
+	<Invoice_Number>CCM4006</Invoice_Number>
+	<Date xsi:type="paw:date">3/12/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Freeman Enterprises</Name>
+	<Line1>9845 Willow Trail Dr</Line1>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<GUID>{EB6DF4AD-8D67-4C0E-BC94-2004E2508312}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">STEVENSON</Customer_ID>
+	<Customer_Name>Stevenson Leasing, Inc.</Customer_Name>
+	<Invoice_Number>10118</Invoice_Number>
+	<Date xsi:type="paw:date">3/12/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Stevenson Leasing, Inc.</Name>
+	<Line1>13554 Lawrenceville Hwy.</Line1>
+	<City>Lilburn</City>
+	<State>GA</State>
+	<Zip>30095-1120</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{13EBDB17-46B3-404D-86B1-9A6A05644B3B}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">CUMMINGS</Customer_ID>
+	<Customer_Name>Cummings Construction</Customer_Name>
+	<Invoice_Number>10307</Invoice_Number>
+	<Date xsi:type="paw:date">3/13/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Cummings Construction</Name>
+	<Line1>4785 Satellite Road</Line1>
+	<City>Duluth</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{1109C551-2508-4681-9590-ED08DC6C72D2}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">TACOMA</Customer_ID>
+	<Customer_Name>Tacoma Park Golf Course</Customer_Name>
+	<Invoice_Number>10322</Invoice_Number>
+	<Date xsi:type="paw:date">3/14/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Tacoma Park Golf Course</Name>
+	<Line1>3545 The Experience Boulevard</Line1>
+	<City>Duluth</City>
+	<State>GA</State>
+	<Zip>30029</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{FD4F0BA6-6482-407D-8850-9E602C41C01C}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SAIA</Customer_ID>
+	<Customer_Name>Saia&apos;s Neighborhood Nursery</Customer_Name>
+	<Invoice_Number>CCM4003</Invoice_Number>
+	<Date xsi:type="paw:date">3/14/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<GUID>{53AABB89-99C0-4695-86A5-209C97F3515F}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SAIA</Customer_ID>
+	<Customer_Name>Saia&apos;s Neighborhood Nursery</Customer_Name>
+	<Invoice_Number>CCM4003</Invoice_Number>
+	<Date xsi:type="paw:date">3/14/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<GUID>{53AABB89-99C0-4695-86A5-209C97F3515F}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SAIA</Customer_ID>
+	<Customer_Name>Saia&apos;s Neighborhood Nursery</Customer_Name>
+	<Invoice_Number>CCM4003</Invoice_Number>
+	<Date xsi:type="paw:date">3/14/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<GUID>{53AABB89-99C0-4695-86A5-209C97F3515F}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">GORDON</Customer_ID>
+	<Customer_Name>Gordon Park &amp; Recreation Center</Customer_Name>
+	<Invoice_Number>CCM4004</Invoice_Number>
+	<Date xsi:type="paw:date">3/14/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<GUID>{11C30D7F-4C98-4E9F-B01E-BF5573912D5B}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">GORDON</Customer_ID>
+	<Customer_Name>Gordon Park &amp; Recreation Center</Customer_Name>
+	<Invoice_Number>CCM4004</Invoice_Number>
+	<Date xsi:type="paw:date">3/14/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<GUID>{11C30D7F-4C98-4E9F-B01E-BF5573912D5B}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">CHAPPLE</Customer_ID>
+	<Customer_Name>Chapple Law Offices</Customer_Name>
+	<Invoice_Number>10341</Invoice_Number>
+	<Date xsi:type="paw:date">3/14/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Chapman-Murphy Law Offices</Name>
+	<Line1>12554 Lawrenceville Hwy.</Line1>
+	<City>Lilburn</City>
+	<State>GA</State>
+	<Zip>30095-1120</Zip>
+</ShipToAddress>	<Customer_PO>56123</Customer_PO>
+	<Ship_Via>None</Ship_Via>
+	<GUID>{754B70F3-FE33-459D-88C5-9E4A9B632CCC}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ARMSTRONG</Customer_ID>
+	<Customer_Name>Armstrong Landscaping</Customer_Name>
+	<Invoice_Number>CM10226</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Harding Consulting</Name>
+	<Line1>2300 Club Drive</Line1>
+	<Line2>Suite A</Line2>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<GUID>{62E9AA9A-DDBF-4804-B8E5-B215F6FE4A3D}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">WILLIAMS</Customer_ID>
+	<Customer_Name>Williams Industries</Customer_Name>
+	<Invoice_Number>10312</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Williams Industries</Name>
+	<Line1>4552 Peachtree Industrial Blvd</Line1>
+	<City>Chamblee</City>
+	<State>GA</State>
+	<Zip>30329</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{5BFC2AED-3D7F-4A89-9012-0D5E451B23E1}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">HENTON</Customer_ID>
+	<Customer_Name>Henton Park Apartments</Customer_Name>
+	<Invoice_Number>10310</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Henton Park Apartments</Name>
+	<Line1>15560 Harrison Road</Line1>
+	<City>Atlanta</City>
+	<State>GA</State>
+	<Zip>30344</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{6D554B0F-B1FB-4CB1-9E0B-E66ABE8A6FE6}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">RETAIL</Customer_ID>
+	<Customer_Name>Retail (Cash) Sales</Customer_Name>
+	<Invoice_Number>10308</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{653CB3FF-6BF5-4304-A375-304412565D2F}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">RETAIL</Customer_ID>
+	<Customer_Name>Retail (Cash) Sales</Customer_Name>
+	<Invoice_Number>10309</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{F4292150-1798-4024-84BD-528EBEE61FFB}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">TEESDALE</Customer_ID>
+	<Customer_Name>Teesdale Real Estate</Customer_Name>
+	<Invoice_Number>10311</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Teesdale Real Estate</Name>
+	<Line1>4555 Indian Lake Lane</Line1>
+	<City>Marietta</City>
+	<State>GA</State>
+	<Zip>30069</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{A3ADD0B3-3029-498D-94CD-BFDF2C43AA34}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">FREEMOND</Customer_ID>
+	<Customer_Name>Freemond Country Club</Customer_Name>
+	<Invoice_Number>10325</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Freeman Enterprises</Name>
+	<Line1>9845 Willow Trail Dr</Line1>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{7E28EFA5-2766-4653-A461-FC6F40F7006C}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">CHAPPLE</Customer_ID>
+	<Customer_Name>Chapple Law Offices</Customer_Name>
+	<Invoice_Number>10313</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Chapman-Murphy Law Offices</Name>
+	<Line1>12554 Lawrenceville Hwy.</Line1>
+	<City>Lilburn</City>
+	<State>GA</State>
+	<Zip>30095-1120</Zip>
+</ShipToAddress>	<Customer_PO>56123</Customer_PO>
+	<Ship_Via>None</Ship_Via>
+	<GUID>{415741AB-9258-4135-A1CE-477B3D1D4018}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ARMSTRONG</Customer_ID>
+	<Customer_Name>Armstrong Landscaping</Customer_Name>
+	<Invoice_Number>10314</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Harding Consulting</Name>
+	<Line1>2300 Club Drive</Line1>
+	<Line2>Suite A</Line2>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{C0ACB7F6-3655-4584-9963-42F2DF53B2FD}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">MASON</Customer_ID>
+	<Customer_Name>Mason Office Park</Customer_Name>
+	<Invoice_Number>10315</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Mason Office Park</Name>
+	<Line1>4501 Peachtree Industrial</Line1>
+	<City>Chamblee</City>
+	<State>GA</State>
+	<Zip>30329</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{617BFB71-D98C-4838-8227-A948D8568039}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SEAWRIGHT</Customer_ID>
+	<Customer_Name>Seawright Sod and Lawn Care</Customer_Name>
+	<Invoice_Number>10316</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Seawright Rentals</Name>
+	<Line1>1505 Ponce De Leon</Line1>
+	<City>Decatur</City>
+	<State>GA</State>
+	<Zip>30311</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{54A8C46D-9530-4628-96A4-81B8F09FF552}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ARCHER</Customer_ID>
+	<Customer_Name>Archer Scapes and Ponds</Customer_Name>
+	<Invoice_Number>10317</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Spencer Software</Name>
+	<Line1>778 Oakland Parkway</Line1>
+	<City>Alpharetta</City>
+	<State>GA</State>
+	<Zip>30092</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{6B89D397-D153-465E-884D-B7F50A5B2BD8}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">KENTON</Customer_ID>
+	<Customer_Name>Kenton Golf and Tennis Center</Customer_Name>
+	<Invoice_Number>10324</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Kenton Golf and Tennis Center</Name>
+	<Line1>1969 Fort Solitude Circle</Line1>
+	<City>Centerville</City>
+	<State>GA</State>
+	<Zip>31028</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{7E2D0A54-C108-4DEA-BF93-31922E9E29F0}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ARCHER</Customer_ID>
+	<Customer_Name>Archer Scapes and Ponds</Customer_Name>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Spencer Software</Name>
+	<Line1>778 Oakland Parkway</Line1>
+	<City>Alpharetta</City>
+	<State>GA</State>
+	<Zip>30092</Zip>
+</ShipToAddress>	<GUID>{7622CD19-FB9D-4B72-B177-7127456CF3B4}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">SAIA</Customer_ID>
+	<Customer_Name>Saia&apos;s Neighborhood Nursery</Customer_Name>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<GUID>{40942FAC-FA44-4B90-B1A3-205853CFEEB5}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">MOSLEY</Customer_ID>
+	<Customer_Name>Mosley Country Club</Customer_Name>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Mosley Country Club</Name>
+	<Line1>1 Howell Walk</Line1>
+	<City>Duluth</City>
+	<State>GA</State>
+	<Zip>30096</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{E5FAB6B8-D451-455C-92A0-147F782115E3}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">FRANKLIN</Customer_ID>
+	<Customer_Name>Franklin Botanical Gardens</Customer_Name>
+	<Invoice_Number>10326</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{911795D5-DB0E-4F34-8B38-DAF842AF78B8}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">TACOMA</Customer_ID>
+	<Customer_Name>Tacoma Park Golf Course</Customer_Name>
+	<Invoice_Number>10327</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Tacoma Park Golf Course</Name>
+	<Line1>3545 The Experience Boulevard</Line1>
+	<City>Duluth</City>
+	<State>GA</State>
+	<Zip>30029</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{D063CD98-DCB3-42E0-B015-F19C6C7AEDA6}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">FRANKLIN</Customer_ID>
+	<Customer_Name>Franklin Botanical Gardens</Customer_Name>
+	<Invoice_Number>10328</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{2CD2D935-08CA-46BD-A6E2-D66B4DE2CC0F}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">CANNON</Customer_ID>
+	<Customer_Name>Cannon Healthcare Center</Customer_Name>
+	<Invoice_Number>10329</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Cannon Healthcare Center</Name>
+	<Line1>2300 Club Drive</Line1>
+	<Line2>Suite C</Line2>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{D35BA9CA-7114-4840-AAA5-5B39D35DEEF8}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">MOSLEY</Customer_ID>
+	<Customer_Name>Mosley Country Club</Customer_Name>
+	<Invoice_Number>10344</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Mosley Country Club</Name>
+	<Line1>1 Howell Walk</Line1>
+	<City>Duluth</City>
+	<State>GA</State>
+	<Zip>30096</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{710EFAB3-3DAA-407A-931A-2B88F01B2339}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">HOLLAND</Customer_ID>
+	<Customer_Name>Holland Properties, Inc.</Customer_Name>
+	<Invoice_Number>Q10201</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>TRUE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{53697EAD-17FA-4923-B114-F2092305562F}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">MCKAY</Customer_ID>
+	<Customer_Name>McKay Construction</Customer_Name>
+	<Invoice_Number>Q10202</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>TRUE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{E1747D8F-385F-493F-AFA5-64336D35839B}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">FREEMOND</Customer_ID>
+	<Customer_Name>Freemond Country Club</Customer_Name>
+	<Invoice_Number>Q10203</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>TRUE</isQuote>
+	<ShipToAddress>
+	<Name>Freeman Enterprises</Name>
+	<Line1>9845 Willow Trail Dr</Line1>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{B1AE6B55-26BD-43FE-B55C-4915C4CC756B}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ARMSTRONG</Customer_ID>
+	<Customer_Name>Armstrong Landscaping</Customer_Name>
+	<Invoice_Number>10339</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Harding Consulting</Name>
+	<Line1>2300 Club Drive</Line1>
+	<Line2>Suite A</Line2>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{E1704D8C-A849-49C0-9F42-EE34ABA6AF8C}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">FRANKLIN</Customer_ID>
+	<Customer_Name>Franklin Botanical Gardens</Customer_Name>
+	<Invoice_Number>10340</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Franklin Botanical Gardens</Name>
+	<Line1>4589 East Jefferson Blvd.</Line1>
+	<City>Alpharetta</City>
+	<State>GA</State>
+	<Zip>30004</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{AE1B4713-312F-40B1-8FE2-42A9C4097725}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">FREEMOND</Customer_ID>
+	<Customer_Name>Freemond Country Club</Customer_Name>
+	<Invoice_Number>10343</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Freeman Enterprises</Name>
+	<Line1>9845 Willow Trail Dr</Line1>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{959C1773-4362-43DB-85C1-ED39CA8563AF}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">ARMSTRONG</Customer_ID>
+	<Customer_Name>Armstrong Landscaping</Customer_Name>
+	<Invoice_Number>10342</Invoice_Number>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+	<Name>Armstrong Landscaping</Name>
+	<Line1>2300 Club Drive</Line1>
+	<Line2>Suite A</Line2>
+	<City>Norcross</City>
+	<State>GA</State>
+	<Zip>30093</Zip>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{3DCC4631-0FF2-499D-8646-2110961683E8}</GUID>
+</PAW_Invoice>
+<PAW_Invoice xsi:type="paw:invoice">
+	<Customer_ID xsi:type="paw:id">HOLLAND</Customer_ID>
+	<Customer_Name>Holland Properties, Inc.</Customer_Name>
+	<Date xsi:type="paw:date">3/15/12</Date>
+	<isQuote>FALSE</isQuote>
+	<ShipToAddress>
+</ShipToAddress>	<Ship_Via>None</Ship_Via>
+	<GUID>{02DD69A9-5BAD-415E-9112-2FC0EF76B762}</GUID>
+</PAW_Invoice>
+</PAW_Invoices>

@@ -1,0 +1,33 @@
+public bool PatientChecked(PatientRegistration pr,List<LabTest > medicines)
+        { 
+         try
+            {
+
+                string update = "Update PatientRegistration set Checked = " + true + " where TokenMonthYear="
+                    + pr.TokenMonthYear + " and TokenNumber=" + pr.TokenNumber; 
+                con = new OleDbConnection();
+                this.readconfile = new ReadConfigFile();
+                con.ConnectionString = this.readconfile.ConfigString(ConfigFiles.ProjectConfigFile);
+                con.Open();
+                tran = con.BeginTransaction();
+                cmd = new OleDbCommand(update, con);
+                cmd.Transaction = tran;
+                cmd.ExecuteNonQuery();
+                foreach (LabTest  med in medicines)
+                {
+                    cmd.CommandText = "insert into MedicineIssued (TokenDate,TokenMonthYear,TokenNumber,MedicineID,DosePerDay) values(#" + pr.TokenDate + "#," + pr.TokenMonthYear + "," + pr.TokenNumber + "," + med.LabTestId + "," + med.TimesADay +")";
+                    cmd.ExecuteNonQuery();
+                }
+                
+                tran.Commit();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                tran.Rollback();
+                throw ex;
+            }
+             
+            finally
+            { con.Close(); }
+        }

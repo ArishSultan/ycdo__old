@@ -1,0 +1,197 @@
+F:\Omer Aziz Shared Data\FDM\ConnectionManager\bin\Debug\ConnectionManager.exe
+F:\Omer Aziz Shared Data\FDM\ConnectionManager\bin\Debug\ConnectionManager.pdb
+F:\Omer Aziz Shared Data\FDM\ConnectionManager\obj\Debug\ResolveAssemblyReference.cache
+F:\Omer Aziz Shared Data\FDM\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+F:\Omer Aziz Shared Data\FDM\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+F:\Omer Aziz Shared Data\FDM\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+F:\Omer Aziz Shared Data\FDM\ConnectionManager\obj\Debug\ConnectionManager.exe
+F:\Omer Aziz Shared Data\FDM\ConnectionManager\obj\Debug\ConnectionManager.pdb
+\\sub-peachtree\FDM\ConnectionManager\bin\Debug\ConnectionManager.exe
+\\sub-peachtree\FDM\ConnectionManager\bin\Debug\ConnectionManager.pdb
+\\sub-peachtree\FDM\ConnectionManager\obj\Debug\ResolveAssemblyReference.cache
+\\sub-peachtree\FDM\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+\\sub-peachtree\FDM\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+\\sub-peachtree\FDM\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+\\sub-peachtree\FDM\ConnectionManager\obj\Debug\ConnectionManager.exe
+\\sub-peachtree\FDM\ConnectionManager\obj\Debug\ConnectionManager.pdb
+D:\zaiddata\FDM\ConnectionManager\bin\Debug\ConnectionManager.exe
+D:\zaiddata\FDM\ConnectionManager\bin\Debug\ConnectionManager.pdb
+D:\zaiddata\FDM\ConnectionManager\obj\Debug\ResolveAssemblyReference.cache
+D:\zaiddata\FDM\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+D:\zaiddata\FDM\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+D:\zaiddata\FDM\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+D:\zaiddata\FDM\ConnectionManager\obj\Debug\ConnectionManager.exe
+D:\zaiddata\FDM\ConnectionManager\obj\Debug\ConnectionManager.pdb
+C:\Users\Administrator\Desktop\YCDO FDM\ConnectionManager\bin\Debug\ConnectionManager.exe
+C:\Users\Administrator\Desktop\YCDO FDM\ConnectionManager\bin\Debug\ConnectionManager.pdb
+C:\Users\Administrator\Desktop\YCDO FDM\ConnectionManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\YCDO FDM\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+C:\Users\Administrator\Desktop\YCDO FDM\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\YCDO FDM\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\YCDO FDM\ConnectionManager\obj\Debug\ConnectionManager.exe
+C:\Users\Administrator\Desktop\YCDO FDM\ConnectionManager\obj\Debug\ConnectionManager.pdb
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\ConnectionManager\bin\Debug\ConnectionManager.exe
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\ConnectionManager\bin\Debug\ConnectionManager.pdb
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\ConnectionManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\ConnectionManager\obj\Debug\ConnectionManager.exe
+C:\Users\Administrator\Desktop\YCDO FDM - Copy\ConnectionManager\obj\Debug\ConnectionManager.pdb
+D:\zaiddata\Ahsan\New Folder\ConnectionManager\bin\Debug\ConnectionManager.exe
+D:\zaiddata\Ahsan\New Folder\ConnectionManager\bin\Debug\ConnectionManager.pdb
+D:\zaiddata\Ahsan\New Folder\ConnectionManager\obj\Debug\ResolveAssemblyReference.cache
+D:\zaiddata\Ahsan\New Folder\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+D:\zaiddata\Ahsan\New Folder\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+D:\zaiddata\Ahsan\New Folder\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+D:\zaiddata\Ahsan\New Folder\ConnectionManager\obj\Debug\ConnectionManager.exe
+D:\zaiddata\Ahsan\New Folder\ConnectionManager\obj\Debug\ConnectionManager.pdb
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\ConnectionManager\bin\Debug\ConnectionManager.exe
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\ConnectionManager\bin\Debug\ConnectionManager.pdb
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.exe
+C:\Users\Administrator\Desktop\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.pdb
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\ConnectionManager\bin\Debug\ConnectionManager.exe
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\ConnectionManager\bin\Debug\ConnectionManager.pdb
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.exe
+C:\Documents and Settings\ZAID\Desktop\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.pdb
+D:\FDM Latest 20-12-2012\ConnectionManager\bin\Debug\ConnectionManager.exe
+D:\FDM Latest 20-12-2012\ConnectionManager\bin\Debug\ConnectionManager.pdb
+D:\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ResolveAssemblyReference.cache
+D:\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+D:\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+D:\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+D:\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.exe
+D:\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.pdb
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\ConnectionManager\bin\Debug\ConnectionManager.exe
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\ConnectionManager\bin\Debug\ConnectionManager.pdb
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.exe
+C:\Documents and Settings\Administrator\Desktop\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.pdb
+D:\Omer Aziz\FDM Latest 20-12-2012\ConnectionManager\bin\Debug\ConnectionManager.exe
+D:\Omer Aziz\FDM Latest 20-12-2012\ConnectionManager\bin\Debug\ConnectionManager.pdb
+D:\Omer Aziz\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Omer Aziz\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+D:\Omer Aziz\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+D:\Omer Aziz\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+D:\Omer Aziz\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.exe
+D:\Omer Aziz\FDM Latest 20-12-2012\ConnectionManager\obj\Debug\ConnectionManager.pdb
+E:\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\ConnectionManager.exe
+E:\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\ConnectionManager.pdb
+E:\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+E:\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+E:\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+E:\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.exe
+E:\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.pdb
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\ConnectionManager.exe
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\ConnectionManager.pdb
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.exe
+C:\Documents and Settings\as\Desktop\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.pdb
+C:\Users\RAEES X64\Desktop\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\ConnectionManager.exe
+C:\Users\RAEES X64\Desktop\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\ConnectionManager.pdb
+C:\Users\RAEES X64\Desktop\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+C:\Users\RAEES X64\Desktop\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+C:\Users\RAEES X64\Desktop\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+C:\Users\RAEES X64\Desktop\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.exe
+C:\Users\RAEES X64\Desktop\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.pdb
+E:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\ConnectionManager.exe
+E:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\ConnectionManager.pdb
+E:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+E:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+E:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+E:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.exe
+E:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.pdb
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.exe
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.pdb
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\FDM.mdb
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\ConnectionManager.exe
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\ConnectionManager.pdb
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\Common.dll
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\Common.pdb
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.csprojResolveAssemblyReference.cache
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+F:\Currently Running Softwares\Muzamil Attendence\Muzamil Works\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\FDM.mdb
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\ConnectionManager.exe
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\ConnectionManager.pdb
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\Common.dll
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\Common.pdb
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.csprojResolveAssemblyReference.cache
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.exe
+E:\Omer Aziz\ST Learing Software Division\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.pdb
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.exe
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.pdb
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\FDM.mdb
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\ConnectionManager.exe
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\ConnectionManager.pdb
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\Common.dll
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\Common.pdb
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.csprojResolveAssemblyReference.cache
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+D:\YCDO\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.exe
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.pdb
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\FDM.mdb
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\ConnectionManager.exe
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\ConnectionManager.pdb
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\Common.dll
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\Common.pdb
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.csprojResolveAssemblyReference.cache
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+E:\Omer Aziz\ST Learing Software Division\YCDO\YCDO Latest with SQL\YCDO Latest with SQL\FDM Latest 20-12-2014\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\FDM.mdb
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\ConnectionManager.exe
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\ConnectionManager.pdb
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\Common.dll
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\ConnectionManager\bin\Debug\Common.pdb
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.csprojResolveAssemblyReference.cache
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.exe
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM Latest 20-12-2014\ConnectionManager\obj\Debug\ConnectionManager.pdb
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\ConnectionManager\bin\Debug\ConnectionManager.exe.config
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\ConnectionManager\bin\Debug\ConnectionManager.exe
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\ConnectionManager\bin\Debug\ConnectionManager.pdb
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\ConnectionManager\bin\Debug\Common.dll
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\ConnectionManager\bin\Debug\Common.pdb
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\ConnectionManager\obj\Debug\ConnectionManager.csprojResolveAssemblyReference.cache
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.Cache
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\ConnectionManager\obj\Debug\ConnectionManager.exe
+F:\Web_Dev_Training\WIP\ST\YCDO Latest with SQL\FDM\ConnectionManager\obj\Debug\ConnectionManager.pdb
+D:\FDM\ConnectionManager\bin\Debug\ConnectionManager.exe.config
+D:\FDM\ConnectionManager\bin\Debug\ConnectionManager.exe
+D:\FDM\ConnectionManager\bin\Debug\ConnectionManager.pdb
+D:\FDM\ConnectionManager\bin\Debug\Common.dll
+D:\FDM\ConnectionManager\bin\Debug\Common.pdb
+D:\FDM\ConnectionManager\bin\Debug\Common.dll.config
+D:\FDM\ConnectionManager\obj\Debug\ConnectionManager.csprojAssemblyReference.cache
+D:\FDM\ConnectionManager\obj\Debug\ConnectionManager.frmConnectionManager.resources
+D:\FDM\ConnectionManager\obj\Debug\ConnectionManager.Properties.Resources.resources
+D:\FDM\ConnectionManager\obj\Debug\ConnectionManager.csproj.GenerateResource.cache
+D:\FDM\ConnectionManager\obj\Debug\ConnectionManager.csproj.CopyComplete
+D:\FDM\ConnectionManager\obj\Debug\ConnectionManager.exe
+D:\FDM\ConnectionManager\obj\Debug\ConnectionManager.pdb

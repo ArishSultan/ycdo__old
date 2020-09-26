@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsPatientRegistration" targetNamespace="http://tempuri.org/DsPatientRegistration.xsd" xmlns:mstns="http://tempuri.org/DsPatientRegistration.xsd" xmlns="http://tempuri.org/DsPatientRegistration.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsPatientRegistration" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DsPatientRegistration" msprop:Generator_UserDSName="DsPatientRegistration" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PatientRegistration" msprop:Generator_UserTableName="PatientRegistration" msprop:Generator_RowDeletedName="PatientRegistrationRowDeleted" msprop:Generator_TableClassName="PatientRegistrationDataTable" msprop:Generator_RowChangedName="PatientRegistrationRowChanged" msprop:Generator_RowClassName="PatientRegistrationRow" msprop:Generator_RowChangingName="PatientRegistrationRowChanging" msprop:Generator_RowEvArgName="PatientRegistrationRowChangeEvent" msprop:Generator_RowEvHandlerName="PatientRegistrationRowChangeEventHandler" msprop:Generator_TablePropName="PatientRegistration" msprop:Generator_TableVarName="tablePatientRegistration" msprop:Generator_RowDeletingName="PatientRegistrationRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_UserColumnName="ID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInTable="IDColumn" type="xs:long" minOccurs="0" />
+              <xs:element name="TokenDate" msprop:Generator_UserColumnName="TokenDate" msprop:Generator_ColumnPropNameInRow="TokenDate" msprop:Generator_ColumnVarNameInTable="columnTokenDate" msprop:Generator_ColumnPropNameInTable="TokenDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TokenMonthYear" msprop:Generator_UserColumnName="TokenMonthYear" msprop:Generator_ColumnPropNameInRow="TokenMonthYear" msprop:Generator_ColumnVarNameInTable="columnTokenMonthYear" msprop:Generator_ColumnPropNameInTable="TokenMonthYearColumn" type="xs:long" minOccurs="0" />
+              <xs:element name="TokenNumber" msprop:Generator_UserColumnName="TokenNumber" msprop:Generator_ColumnPropNameInRow="TokenNumber" msprop:Generator_ColumnVarNameInTable="columnTokenNumber" msprop:Generator_ColumnPropNameInTable="TokenNumberColumn" type="xs:long" minOccurs="0" />
+              <xs:element name="PatientFirstName" msprop:Generator_UserColumnName="PatientFirstName" msprop:Generator_ColumnPropNameInRow="PatientFirstName" msprop:Generator_ColumnVarNameInTable="columnPatientFirstName" msprop:Generator_ColumnPropNameInTable="PatientFirstNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientLastName" msprop:Generator_UserColumnName="PatientLastName" msprop:Generator_ColumnPropNameInRow="PatientLastName" msprop:Generator_ColumnVarNameInTable="columnPatientLastName" msprop:Generator_ColumnPropNameInTable="PatientLastNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientNIC" msprop:Generator_UserColumnName="PatientNIC" msprop:Generator_ColumnPropNameInRow="PatientNIC" msprop:Generator_ColumnVarNameInTable="columnPatientNIC" msprop:Generator_ColumnPropNameInTable="PatientNICColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientAddress" msprop:Generator_UserColumnName="PatientAddress" msprop:Generator_ColumnPropNameInRow="PatientAddress" msprop:Generator_ColumnVarNameInTable="columnPatientAddress" msprop:Generator_ColumnPropNameInTable="PatientAddressColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientType" msprop:Generator_UserColumnName="PatientType" msprop:Generator_ColumnPropNameInRow="PatientType" msprop:Generator_ColumnVarNameInTable="columnPatientType" msprop:Generator_ColumnPropNameInTable="PatientTypeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TokenAmount" msprop:Generator_UserColumnName="TokenAmount" msprop:Generator_ColumnPropNameInRow="TokenAmount" msprop:Generator_ColumnVarNameInTable="columnTokenAmount" msprop:Generator_ColumnPropNameInTable="TokenAmountColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Room" msprop:Generator_UserColumnName="Room" msprop:Generator_ColumnPropNameInRow="Room" msprop:Generator_ColumnVarNameInTable="columnRoom" msprop:Generator_ColumnPropNameInTable="RoomColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientRegistrationNumber" msprop:Generator_UserColumnName="PatientRegistrationNumber" msprop:Generator_ColumnPropNameInRow="PatientRegistrationNumber" msprop:Generator_ColumnVarNameInTable="columnPatientRegistrationNumber" msprop:Generator_ColumnPropNameInTable="PatientRegistrationNumberColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientRegistrationDate" msprop:Generator_UserColumnName="PatientRegistrationDate" msprop:Generator_ColumnPropNameInRow="PatientRegistrationDate" msprop:Generator_ColumnVarNameInTable="columnPatientRegistrationDate" msprop:Generator_ColumnPropNameInTable="PatientRegistrationDateColumn" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//mstns:PatientRegistration" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

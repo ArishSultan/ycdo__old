@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsTokenSummary" targetNamespace="http://tempuri.org/DsTokenSummary.xsd" xmlns:mstns="http://tempuri.org/DsTokenSummary.xsd" xmlns="http://tempuri.org/DsTokenSummary.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsTokenSummary" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DsTokenSummary" msprop:Generator_DataSetName="DsTokenSummary" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PatientRegistration" msprop:Generator_UserTableName="PatientRegistration" msprop:Generator_RowDeletedName="PatientRegistrationRowDeleted" msprop:Generator_RowChangedName="PatientRegistrationRowChanged" msprop:Generator_RowClassName="PatientRegistrationRow" msprop:Generator_RowChangingName="PatientRegistrationRowChanging" msprop:Generator_RowEvArgName="PatientRegistrationRowChangeEvent" msprop:Generator_RowEvHandlerName="PatientRegistrationRowChangeEventHandler" msprop:Generator_TableClassName="PatientRegistrationDataTable" msprop:Generator_TableVarName="tablePatientRegistration" msprop:Generator_RowDeletingName="PatientRegistrationRowDeleting" msprop:Generator_TablePropName="PatientRegistration">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TokenDate" msprop:Generator_UserColumnName="TokenDate" msprop:Generator_ColumnVarNameInTable="columnTokenDate" msprop:Generator_ColumnPropNameInRow="TokenDate" msprop:Generator_ColumnPropNameInTable="TokenDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TokenNumber" msprop:Generator_UserColumnName="TokenNumber" msprop:Generator_ColumnVarNameInTable="columnTokenNumber" msprop:Generator_ColumnPropNameInRow="TokenNumber" msprop:Generator_ColumnPropNameInTable="TokenNumberColumn" type="xs:long" minOccurs="0" />
+              <xs:element name="PatientFirstName" msprop:Generator_UserColumnName="PatientFirstName" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnPatientFirstName" msprop:Generator_ColumnPropNameInTable="PatientFirstNameColumn" msprop:Generator_ColumnPropNameInRow="PatientFirstName" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientLastName" msprop:Generator_UserColumnName="PatientLastName" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnPatientLastName" msprop:Generator_ColumnPropNameInTable="PatientLastNameColumn" msprop:Generator_ColumnPropNameInRow="PatientLastName" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientNIC" msprop:Generator_UserColumnName="PatientNIC" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnPatientNIC" msprop:Generator_ColumnPropNameInTable="PatientNICColumn" msprop:Generator_ColumnPropNameInRow="PatientNIC" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientAddress" msprop:Generator_UserColumnName="PatientAddress" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnPatientAddress" msprop:Generator_ColumnPropNameInTable="PatientAddressColumn" msprop:Generator_ColumnPropNameInRow="PatientAddress" type="xs:string" minOccurs="0" />
+              <xs:element name="TokenAmount" msprop:Generator_UserColumnName="TokenAmount" msprop:Generator_ColumnVarNameInTable="columnTokenAmount" msprop:Generator_ColumnPropNameInRow="TokenAmount" msprop:Generator_ColumnPropNameInTable="TokenAmountColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="PatientRegistrationNumber" msprop:Generator_UserColumnName="PatientRegistrationNumber" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnPatientRegistrationNumber" msprop:Generator_ColumnPropNameInTable="PatientRegistrationNumberColumn" msprop:Generator_ColumnPropNameInRow="PatientRegistrationNumber" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientRegistrationDate" msprop:Generator_UserColumnName="PatientRegistrationDate" msprop:Generator_ColumnVarNameInTable="columnPatientRegistrationDate" msprop:Generator_ColumnPropNameInRow="PatientRegistrationDate" msprop:Generator_ColumnPropNameInTable="PatientRegistrationDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TokenType" msprop:Generator_UserColumnName="TokenType" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnTokenType" msprop:Generator_ColumnPropNameInTable="TokenTypeColumn" msprop:Generator_ColumnPropNameInRow="TokenType" type="xs:string" minOccurs="0" />
+              <xs:element name="TestName" msprop:Generator_UserColumnName="TestName" msprop:Generator_ColumnPropNameInRow="TestName" msprop:Generator_ColumnVarNameInTable="columnTestName" msprop:Generator_ColumnPropNameInTable="TestNameColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

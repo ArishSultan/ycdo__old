@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{20BF5F33-5DA3-4D5F-B18B-CCD5FCE9E2D8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Common</RootNamespace>
+    <AssemblyName>Common</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountPeriods.cs" />
+    <Compile Include="Address.cs" />
+    <Compile Include="AddSubLevels.cs" />
+    <Compile Include="AppliedOn.cs" />
+    <Compile Include="Attribute.cs" />
+    <Compile Include="AttributeLineItem.cs" />
+    <Compile Include="AttributeType.cs" />
+    <Compile Include="BaseComissionOn.cs" />
+    <Compile Include="BillingStatus.cs" />
+    <Compile Include="BillingType.cs" />
+    <Compile Include="Branch.cs" />
+    <Compile Include="ChartOfAccount.cs" />
+    <Compile Include="ChartofAccountType.cs" />
+    <Compile Include="City.cs" />
+    <Compile Include="CityStateZipCountry.cs" />
+    <Compile Include="ComissionCriteria.cs" />
+    <Compile Include="CommissionMethod.cs" />
+    <Compile Include="CommissionOptions.cs" />
+    <Compile Include="CompanyInformation.cs" />
+    <Compile Include="Contact.cs" />
+    <Compile Include="Datasets\DSBranches.cs">
+      <DependentUpon>DSBranches.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Datasets\DSBranches.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSBranches.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Datasets\DSDonor.cs">
+      <DependentUpon>DSDonor.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Datasets\DSDonor.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSDonor.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Datasets\DSMembership.cs">
+      <DependentUpon>DSMembership.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Datasets\DSMembership.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSMembership.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Donor.cs" />
+    <Compile Include="CostCode.cs" />
+    <Compile Include="Credit_Status.cs" />
+    <Compile Include="Customer.cs" />
+    <Compile Include="CustomerDefault.cs" />
+    <Compile Include="Datasets\DSInvoice.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSInvoice.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Datasets\DsPatientRegistration.cs">
+      <DependentUpon>DsPatientRegistration.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Datasets\DsPatientRegistration.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DsPatientRegistration.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Datasets\DsPrintedInvoices.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DsPrintedInvoices.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Datasets\DsTokenSummary.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DsTokenSummary.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Datasets\Just4LoadDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Just4LoadDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DisplayName.cs" />
+    <Compile Include="EmployeeType.cs" />
+    <Compile Include="Enum\BloodGroup.cs" />
+    <Compile Include="Enum\FundsType.cs" />
+    <Compile Include="Enum\Gender.cs" />
+    <Compile Include="Enum\Memberships.cs" />
+    <Compile Include="Enum\Status.cs" />
+    <Compile Include="ExpenseTicker.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="HRobItem.cs" />
+    <Compile Include="InjectionLabTest.cs" />
+    <Compile Include="Item.cs" />
+    <Compile Include="ItemClass.cs" />
+    <Compile Include="ItemComponent.cs" />
+    <Compile Include="ItemTaxesType.cs" />
+    <Compile Include="Job.cs" />
+    <Compile Include="LabTest.cs" />
+    <Compile Include="Membership.cs" />
+    <Compile Include="Patient.cs" />
+    <Compile Include="PatientCategory.cs" />
+    <Compile Include="PatientRegistration.cs" />
+    <Compile Include="PatientType.cs" />
+    <Compile Include="PaymentMethod.cs" />
+    <Compile Include="Person.cs" />
+    <Compile Include="Phase.cs" />
+    <Compile Include="PriceLevel.cs" />
+    <Compile Include="ProjectDetail.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Quote.cs" />
+    <Compile Include="QuoteLineItem.cs" />
+    <Compile Include="Receipt.cs" />
+    <Compile Include="ReceiptLine.cs" />
+    <Compile Include="RegistryType.cs" />
+    <Compile Include="Room.cs" />
+    <Compile Include="RoundingLevel.cs" />
+    <Compile Include="SaleInLineItemType.cs" />
+    <Compile Include="SaleInvoice.cs" />
+    <Compile Include="SaleInvoiceLineItem.cs" />
+    <Compile Include="SaleOrder.cs" />
+    <Compile Include="SaleOrderlineItem.cs" />
+    <Compile Include="SalesPerson.cs" />
+    <Compile Include="SalesTaxAuthority.cs" />
+    <Compile Include="SalesTaxCode.cs" />
+    <Compile Include="ShipAddress.cs" />
+    <Compile Include="ShipVia.cs" />
+    <Compile Include="TaxBasis.cs" />
+    <Compile Include="Team.cs" />
+    <Compile Include="Term.cs" />
+    <Compile Include="Ticket.cs" />
+    <Compile Include="TimeTicket.cs" />
+    <Compile Include="TokenType.cs" />
+    <Compile Include="UpdateFields.cs" />
+    <Compile Include="USE.cs" />
+    <Compile Include="USEFormula.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="UserPreference.cs" />
+    <Compile Include="UserRight.cs" />
+    <Compile Include="UserScreen.cs" />
+    <Compile Include="Vendor.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Datasets\DSBranches.xsc">
+      <DependentUpon>DSBranches.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\DSBranches.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSBranches.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Datasets\DSBranches.xss">
+      <DependentUpon>DSBranches.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\DSDonor.xsc">
+      <DependentUpon>DSDonor.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\DSDonor.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSDonor.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Datasets\DSDonor.xss">
+      <DependentUpon>DSDonor.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\DSInvoice.xsc">
+      <DependentUpon>DSInvoice.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\DSInvoice.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSInvoice.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Datasets\DSInvoice.xss">
+      <DependentUpon>DSInvoice.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\DSMembership.xsc">
+      <DependentUpon>DSMembership.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\DSMembership.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSMembership.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Datasets\DSMembership.xss">
+      <DependentUpon>DSMembership.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\DsPatientRegistration.xsc">
+      <DependentUpon>DsPatientRegistration.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\DsPatientRegistration.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsPatientRegistration.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Datasets\DsPatientRegistration.xss">
+      <DependentUpon>DsPatientRegistration.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\DsPrintedInvoices.xsc">
+      <DependentUpon>DsPrintedInvoices.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\DsPrintedInvoices.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsPrintedInvoices.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Datasets\DsPrintedInvoices.xss">
+      <DependentUpon>DsPrintedInvoices.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\DsTokenSummary.xsc">
+      <DependentUpon>DsTokenSummary.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\DsTokenSummary.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsTokenSummary.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Datasets\DsTokenSummary.xss">
+      <DependentUpon>DsTokenSummary.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\Just4LoadDataSet.xsc">
+      <DependentUpon>Just4LoadDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\Just4LoadDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Just4LoadDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Datasets\Just4LoadDataSet.xss">
+      <DependentUpon>Just4LoadDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="FDM.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
